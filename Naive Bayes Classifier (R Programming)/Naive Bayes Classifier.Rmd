@@ -1,0 +1,179 @@
+---
+title: "Naive Bayes Classifier"
+author: "VAIBK"
+date: "02/05/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+```{r cars}
+# Load packages
+library(bayesrules)
+library(tidyverse)
+library(e1071)
+library(janitor)
+
+# Load data
+data("pulse_of_the_nation")
+survey <- pulse_of_the_nation
+View(survey)
+```
+
+## EDA
+```{r}
+survey %>% tabyl(vaccines_are_safe)
+```
+# Bar plots for Categorical Variables
+You can also embed plots, for example:
+```{r}
+ggplot(survey %>% drop_na(science_is_honest), aes(fill = science_is_honest, x = vaccines_are_safe)) + geom_bar(position = "fill")
+
+ggplot(survey %>% drop_na(party), aes(fill = party, x = vaccines_are_safe)) + geom_bar(position = "fill")
+
+ggplot(survey %>% drop_na(trump_approval), aes(fill = trump_approval, x = vaccines_are_safe)) + geom_bar(position = "fill")
+
+ggplot(survey %>% drop_na(climate_change), aes(fill = climate_change, x = vaccines_are_safe)) + geom_bar(position = "fill")
+
+ggplot(survey %>% drop_na(robots), aes(fill = robots, x = vaccines_are_safe)) + geom_bar(position = "fill")
+
+ggplot(survey %>% drop_na(education), aes(fill = education, x = vaccines_are_safe)) + geom_bar(position = "fill")
+
+ggplot(survey %>% drop_na(ghosts), aes(fill = ghosts, x = vaccines_are_safe)) + geom_bar(position = "fill")
+
+ggplot(survey %>% drop_na(wise_unwise), aes(fill = wise_unwise, x = vaccines_are_safe)) + geom_bar(position = "fill")
+
+ggplot(survey %>% drop_na(earth_sun), aes(fill = earth_sun, x = vaccines_are_safe)) + geom_bar(position = "fill")
+
+ggplot(survey %>% drop_na(fed_sci_budget), aes(fill = fed_sci_budget, x = vaccines_are_safe)) + geom_bar(position = "fill")
+
+```
+
+# Plotting Scatter Plots between Different Numerical Variables
+```{r}
+ggplot(survey,aes(x = age, y = income, color = vaccines_are_safe)) + geom_point()
+ggplot(survey,aes(x = age, y = transformers, color = vaccines_are_safe)) + geom_point()
+ggplot(survey,aes(x = age, y = books, color = vaccines_are_safe)) + geom_point()
+ggplot(survey,aes(x = income, y = transformers, color = vaccines_are_safe)) + geom_point()
+ggplot(survey,aes(x = income, y = books, color = vaccines_are_safe)) + geom_point()
+ggplot(survey,aes(x = transformers, y = books, color = vaccines_are_safe)) + geom_point()
+```
+
+
+# Calculate the Sample mean and SD for each group
+```{r}
+survey %>% group_by(vaccines_are_safe) %>% summarize(mean = mean(age, na.rm = TRUE),sd = sd(age, na.rm = TRUE))
+
+survey %>% group_by(vaccines_are_safe) %>% summarize(mean = mean(income, na.rm = TRUE),sd = sd(income, na.rm = TRUE))
+
+survey %>% group_by(vaccines_are_safe) %>% summarize(mean = mean(transformers, na.rm = TRUE),sd = sd(transformers, na.rm = TRUE))
+
+survey %>% group_by(vaccines_are_safe) %>% summarize(mean = mean(books, na.rm = TRUE),sd = sd(books, na.rm = TRUE))
+```
+
+
+# Plotting Normal Models for the Each Numerical Variables
+```{r}
+ggplot(survey, aes(x = age, color = vaccines_are_safe)) + stat_function(fun = dnorm, args = list(mean = 45.31250, sd = 23.25430), aes(color = "Neither Agree nor Disagree")) +stat_function(fun = dnorm, args = list(mean = 49.49029, sd = 16.47637),aes(color = "Somewhat Agree")) +
+stat_function(fun = dnorm, args = list(mean = 46.40789, sd = 14.76137),aes(color = "Somewhat Disagree")) + 
+stat_function(fun = dnorm, args = list(mean = 49.85826, sd = 16.73871),aes(color = "Strongly Agree"))+stat_function(fun = dnorm, args = list(mean = 49.20000, sd = 16.18202),aes(color = "Strongly Disagree"))+geom_vline(xintercept = 50, linetype = "dashed")
+
+ggplot(survey, aes(x = income, color = vaccines_are_safe)) + stat_function(fun = dnorm, args = list(mean = 81.68750, sd = 35.58224), aes(color = "Neither Agree nor Disagree")) +stat_function(fun = dnorm, args = list(mean = 82.08738, sd = 51.84444),aes(color = "Somewhat Agree")) +stat_function(fun = dnorm, args = list(mean = 74.21053, sd = 36.53649),aes(color = "Somewhat Disagree")) + stat_function(fun = dnorm, args = list(mean = 96.77570, sd = 60.21412),aes(color = "Strongly Agree"))+stat_function(fun = dnorm, args = list(mean = 74.63333, sd = 42.94023),aes(color = "Strongly Disagree"))+geom_vline(xintercept = 80, linetype = "dashed")
+
+
+ggplot(survey, aes(x = books, color = vaccines_are_safe)) + stat_function(fun = dnorm, args = list(mean = 12.06250, sd = 18.62424), aes(color = "Neither Agree nor Disagree")) +stat_function(fun = dnorm, args = list(mean = 23.84951		, sd = 100.97892),aes(color = "Somewhat Agree")) +stat_function(fun = dnorm, args = list(mean = 25.02632, sd = 115.64036),aes(color = "Somewhat Disagree")) + 
+stat_function(fun = dnorm, args = list(mean = 21.04361, sd = 61.24105	),aes(color = "Strongly Agree"))+stat_function(fun = dnorm, args = list(mean = 24.81667	, sd = 44.56246),aes(color = "Strongly Disagree"))+geom_vline(xintercept = 23, linetype = "dashed")
+
+```
+# Calculating Likelihoods
+```{r}
+print("Likelihood for age")
+sprintf("Neither Agree nor Disagree:%s", dnorm(50, mean = 45.31250, sd = 23.25430))
+sprintf("Somewhat Agree:%s", dnorm(50, mean = 49.49029, sd = 16.47637))
+sprintf("Somewhat Disagree:%s", dnorm(50, mean = 46.40789, sd = 14.76137))
+sprintf("Strongly Agree:%s", dnorm(50, mean = 49.85826, sd = 16.73871))
+sprintf("Strongly Disagree:%s", dnorm(50, mean = 49.20000, sd = 16.18202))
+
+sprintf("")
+print("Likelihood for income")
+sprintf("Neither Agree nor Disagree:%s", dnorm(80, mean = 81.68750, sd = 35.58224))
+sprintf("Somewhat Agree:%s", dnorm(80, mean = 82.08738, sd = 51.84444))
+sprintf("Somewhat Disagree:%s", dnorm(80, mean = 74.21053, sd = 36.53649))
+sprintf("Strongly Agree:%s", dnorm(80, mean = 96.77570, sd = 60.21412))
+sprintf("Strongly Disagree:%s", dnorm(80, mean = 74.63333, sd = 42.94023))
+
+sprintf("")
+print("Likelihood for transformers")
+sprintf("Neither Agree nor Disagree:%s", dnorm(1.5, mean = 2.000000, sd = 2.065591))
+sprintf("Somewhat Agree:%s", dnorm(1.5, mean = 1.461165, sd = 1.541601))
+sprintf("Somewhat Disagree:%s", dnorm(1.5, mean = 1.434211, sd = 1.499649))
+sprintf("Strongly Agree:%s", dnorm(1.5, mean = 1.211838, sd = 1.482708))
+sprintf("Strongly Disagree:%s", dnorm(1.5, mean = 1.716667, sd = 1.905315))
+
+sprintf("")
+print("Likelihood for books")
+sprintf("Neither Agree nor Disagree:%s", dnorm(23, mean = 12.06250, sd = 18.62424))
+sprintf("Somewhat Agree:%s", dnorm(23, mean = 23.84951, sd = 100.97892))
+sprintf("Somewhat Disagree:%s", dnorm(23, mean = 25.02632, sd = 115.64036))
+sprintf("Strongly Agree:%s", dnorm(23, mean = 21.04361, sd = 61.24105))
+sprintf("Strongly Disagree:%s", dnorm(23, mean = 24.81667, sd = 44.56246))	
+	
+```
+#Implementing & evaluating naive Bayes classification
+```{r}
+
+naive_model_1 <- naiveBayes(vaccines_are_safe ~ age+income+books, data = survey) 
+
+#Models with categorical variables ,Adding Categorical Columns in the Dataframe Survey for better modeling
+
+naive_model_2 <- naiveBayes(vaccines_are_safe ~ age+income+education+books+science_is_honest+robots+earth_sun, data = survey) 
+
+naive_model_3 <- naiveBayes(vaccines_are_safe ~ age+income+education+books+science_is_honest+fed_sci_budget+climate_change, data = survey) 
+
+survey <- survey %>% mutate(Naive_Model1 = predict(naive_model_1, newdata = .),Naive_Model2 = predict(naive_model_2, newdata = .),Naive_Model3 = predict(naive_model_3, newdata = .))
+```
+
+# Checking the model for first few values
+```{r}
+set.seed(0)
+survey %>% sample_n(4) %>% select(age, income,science_is_honest,books,fed_sci_budget,climate_change,vaccines_are_safe, Naive_Model1, Naive_Model2, Naive_Model3)
+```
+# Confusion Matrix for Models
+```{r}
+# MODEL 1
+print("---------------Model1-------------")
+survey %>% tabyl(vaccines_are_safe, Naive_Model1) %>%adorn_percentages("row") %>% adorn_pct_formatting(digits = 2) %>%adorn_ns()
+
+print("---------------Model2-------------")
+# MODEL 2
+survey %>% tabyl(vaccines_are_safe, Naive_Model2) %>%adorn_percentages("row") %>% adorn_pct_formatting(digits = 2) %>%adorn_ns()
+
+print("---------------Model3-------------")
+# MODEL 2
+survey %>% tabyl(vaccines_are_safe, Naive_Model3) %>%adorn_percentages("row") %>% adorn_pct_formatting(digits = 2) %>%adorn_ns()
+```
+# Accuracy Rate of Model 2
+```{r}
+accuracy=607/0000
+sprintf("Accuracy Rate Of The Model(in percent):%s",accuracy*100)
+```
+# Cross Validation
+```{r}
+set.seed(0)
+cv_model_2 <- naive_classification_summary_cv(model = naive_model_2, data = survey, y = "vaccines_are_safe", k = 50)
+cv_model_2$cv
+```
+#dsdf
+```{r}
+naive_model_2
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
