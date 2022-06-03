@@ -1,0 +1,788 @@
+,MovieName,ReleasedYear,Metascores,ImdbRatings,MovieCertification,MovieRuntime,MovieGenres,TotalVotes,Box-Office($),Directors
+0,The Shawshank Redemption,1994,80        ,9.3,A,142 min,Drama            ,2379165,"28,341,469",Frank Darabont
+1,The Godfather,1972,100        ,9.2,A,175 min,"Crime, Drama            ",1648204,"134,966,411",Francis Ford Coppola
+2,Pulp Fiction,1994,94        ,8.9,A,154 min,"Crime, Drama            ",1853430,"107,928,762",Quentin Tarantino
+3,The Godfather: Part II,1974,90        ,9,A,202 min,"Crime, Drama            ",1147487,"57,300,000",Francis Ford Coppola
+4,Inception,2010,74        ,8.8,UA,148 min,"Action, Adventure, Sci-Fi            ",2101383,"292,576,195",Christopher Nolan
+5,The Lord of the Rings: The Return of the King,2003,94        ,8.9,U,201 min,"Action, Adventure, Drama            ",1664897,"377,845,905",Peter Jackson
+6,Star Wars,1977,90        ,8.6,UA,121 min,"Action, Adventure, Fantasy            ",1245830,"322,740,140",George Lucas
+7,The Lord of the Rings: The Fellowship of the Ring,2001,92        ,8.8,U,178 min,"Action, Adventure, Drama            ",1685092,"315,544,750",Peter Jackson
+8,The Matrix,1999,73        ,8.7,A,136 min,"Action, Sci-Fi            ",1701649,"171,479,930",Lana Wachowski
+9,Se7en,1995,65        ,8.6,A,127 min,"Crime, Drama, Mystery            ",1468995,"100,125,643",David Fincher
+10,Amélie,2001,69        ,8.3,U,122 min,"Comedy, Romance            ",711162,"33,225,499",Jean-Pierre Jeunet
+11,Terminator 2: Judgment Day,1991,75        ,8.5,A,137 min,"Action, Sci-Fi            ",1006737,"204,843,350",James Cameron
+12,The Walking Dead,2022,None,8.2,18+,44 min,"Drama, Horror, Thriller            ",866069,None,Andrew Lincoln
+13,Zombieland,2009,73        ,7.6,A,88 min,"Adventure, Comedy, Fantasy            ",525090,"75,590,286",Ruben Fleischer
+14,Shaun of the Dead,2004,76        ,7.9,UA,99 min,"Comedy, Horror            ",517582,"13,542,874",Edgar Wright
+15,I Am Legend,2007,65        ,7.2,A,101 min,"Action, Adventure, Drama            ",694486,"256,386,216",Francis Lawrence
+16,The Crazies,2010,None,6.5,R,101 min,"Horror, Mystery, Thriller            ",112521,"39,123,589",Breck Eisner
+17,Grindhouse,2007,77        ,7.5,R,191 min,"Action, Horror, Thriller            ",178868,"25,031,037",Robert Rodriguez
+18,28 Days Later...,2002,73        ,7.6,A,113 min,"Drama, Horror, Sci-Fi            ",380620,"45,064,915",Danny Boyle
+19,28 Weeks Later,2007,78        ,7,R,100 min,"Horror, Sci-Fi            ",260654,"28,638,916",Juan Carlos Fresnadillo
+20,Resident Evil: Extinction,2007,None,6.3,A,94 min,"Action, Horror, Sci-Fi            ",184926,"50,648,679",Russell Mulcahy
+21,Dawn of the Dead,2004,None,7.3,A,101 min,"Action, Horror            ",237285,"59,020,957",Zack Snyder
+22,Resident Evil,2002,None,6.7,A,100 min,"Action, Horror, Sci-Fi            ",250139,"40,119,709",Paul W.S. Anderson
+23,Planet Terror,2007,None,7,A,105 min,"Action, Adventure, Comedy            ",201327,None,Robert Rodriguez
+24,Army of Darkness,1992,None,7.5,A,81 min,"Comedy, Horror            ",164121,"11,502,976",Sam Raimi
+25,Død snø,2009,61        ,6.3,None,92 min,"Comedy, Fantasy, Horror            ",64531,"41,709",Tommy Wirkola
+26,Resident Evil: Apocalypse,2004,None,6.2,A,94 min,"Action, Horror, Sci-Fi            ",187741,"51,201,453",Alexander Witt
+27,Doom,2005,None,5.2,UA,105 min,"Action, Horror, Sci-Fi            ",108683,"28,212,337",Andrzej Bartkowiak
+28,Braindead,1992,None,7.5,R,104 min,"Comedy, Fantasy, Horror            ",91975,"242,623",Peter Jackson
+29,Land of the Dead,2005,71        ,6.2,A,93 min,"Horror, Sci-Fi, Thriller            ",92406,"20,700,082",George A. Romero
+30,Dawn of the Dead,1978,71        ,7.9,A,127 min,"Horror, Thriller            ",112495,"5,100,000",George A. Romero
+31,Night of the Living Dead,1968,89        ,7.9,None,96 min,"Horror, Thriller            ",117889,"89,029",George A. Romero
+32,Quarantine,2008,None,5.9,A,89 min,"Horror, Thriller            ",70712,"31,691,811",John Erick Dowdle
+33,Survival of the Dead,2009,None,4.9,A,90 min,"Comedy, Drama, Horror            ",20448,"101,740",George A. Romero
+34,Diary of the Dead,2007,66        ,5.6,UA,95 min,"Fantasy, Horror, Sci-Fi            ",46083,"958,961",George A. Romero
+35,Pet Sematary,1989,None,6.6,A,103 min,"Fantasy, Horror, Thriller            ",95375,"57,469,467",Mary Lambert
+36,The Return of the Living Dead,1985,66        ,7.3,A,91 min,"Comedy, Horror, Sci-Fi            ",55305,"14,237,000",Dan O'Bannon
+37,Day of the Dead,ideo,None,4.5,A,86 min,"Action, Horror, Sci-Fi            ",20304,None,Steve Miner
+38,Black Swan,2010,79        ,8,A,108 min,"Drama, Thriller            ",707533,"106,954,678",Darren Aronofsky
+39,The Green Hornet,2011,None,5.8,PG-13,119 min,"Action, Comedy, Crime            ",155936,"98,780,042",Michel Gondry
+40,xXx,2002,None,5.9,UA,124 min,"Action, Adventure, Thriller            ",174123,"142,109,382",Rob Cohen
+41,The Hangover,2009,73        ,7.7,UA,100 min,Comedy            ,724067,"277,322,503",Todd Phillips
+42,Night of the Living Dead,1990,None,6.9,A,92 min,Horror            ,39181,"5,835,247",Tom Savini
+43,The Fast and the Furious: Tokyo Drift,2006,None,6,UA,104 min,"Action, Crime, Thriller            ",246015,"62,514,415",Justin Lin
+44,A Clockwork Orange,1971,77        ,8.3,A,136 min,"Crime, Drama, Sci-Fi            ",766901,"6,207,725",Stanley Kubrick
+45,Aliens,1986,84        ,8.3,U,137 min,"Action, Adventure, Sci-Fi            ",660188,"85,160,248",James Cameron
+46,Requiem for a Dream,2000,68        ,8.3,A,102 min,Drama            ,776944,"3,635,482",Darren Aronofsky
+47,The Prestige,2006,66        ,8.5,U,130 min,"Drama, Mystery, Sci-Fi            ",1209002,"53,089,891",Christopher Nolan
+48,Reservoir Dogs,1992,79        ,8.3,15+,99 min,"Crime, Drama, Thriller            ",931409,"2,832,029",Quentin Tarantino
+49,Back to the Future,1985,87        ,8.5,U,116 min,"Adventure, Comedy, Sci-Fi            ",1075454,"210,609,762",Robert Zemeckis
+50,Monty Python and the Holy Grail,1975,91        ,8.2,U,91 min,"Adventure, Comedy, Fantasy            ",505831,"1,229,197",Terry Gilliam
+51,The Green Mile,1999,61        ,8.6,UA,189 min,"Crime, Drama, Fantasy            ",1167090,"136,801,374",Frank Darabont
+52,Braveheart,1995,68        ,8.3,A,178 min,"Biography, Drama, History            ",969433,"75,600,000",Mel Gibson
+53,2001: A Space Odyssey,1968,84        ,8.3,U,149 min,"Adventure, Sci-Fi            ",611745,"56,954,992",Stanley Kubrick
+54,Der Untergang,2004,82        ,8.2,R,156 min,"Biography, Drama, History            ",334956,"5,509,040",Oliver Hirschbiegel
+55,Gladiator,2000,67        ,8.5,UA,155 min,"Action, Adventure, Drama            ",1359705,"187,705,427",Ridley Scott
+56,Inglourious Basterds,2009,69        ,8.3,A,153 min,"Adventure, Drama, War            ",1290158,"120,540,719",Quentin Tarantino
+57,Harry Potter and the Deathly Hallows: Part 1,2010,65        ,7.7,A,146 min,"Adventure, Family, Fantasy            ",487101,"295,983,305",David Yates
+58,The Dark Knight,2008,84        ,9,UA,152 min,"Action, Crime, Drama            ",2342895,"534,858,444",Christopher Nolan
+59,The Mechanic,2011,None,6.6,R,93 min,"Action, Crime, Thriller            ",152161,"29,121,498",Simon West
+60,The Social Network,2010,95        ,7.7,UA,120 min,"Biography, Drama            ",635104,"96,962,694",David Fincher
+61,Avatar,2009,83        ,7.8,UA,162 min,"Action, Adventure, Fantasy            ",1130308,"760,507,625",James Cameron
+62,Scott Pilgrim vs. the World,2010,69        ,7.5,U,112 min,"Action, Comedy, Fantasy            ",385677,"31,494,270",Edgar Wright
+63,Kick-Ass,2010,66        ,7.6,UA,117 min,"Action, Comedy, Crime            ",529129,"48,071,303",Matthew Vaughn
+64,Due Date,2010,None,6.5,UA,95 min,"Comedy, Drama            ",326166,"100,539,043",Todd Phillips
+65,The Other Guys,2010,64        ,6.7,A,107 min,"Action, Comedy, Crime            ",245654,"119,219,978",Adam McKay
+66,Twilight,2008,None,5.2,UA,122 min,"Drama, Fantasy, Romance            ",431093,"191,465,414",Catherine Hardwicke
+67,Fight Club,1999,66        ,8.8,A,139 min,Drama            ,1882569,"37,030,102",David Fincher
+68,Batman Begins,2005,70        ,8.2,UA,140 min,"Action, Adventure            ",1326319,"206,852,432",Christopher Nolan
+69,Die Hard,1988,72        ,8.2,A,132 min,"Action, Thriller            ",801565,"83,008,852",John McTiernan
+70,Hotel Rwanda,2004,79        ,8.1,PG-13,121 min,"Biography, Drama, History            ",337469,"23,530,892",Terry George
+71,Heat,1995,76        ,8.2,A,170 min,"Crime, Drama, Thriller            ",586753,"67,436,818",Michael Mann
+72,Jaws,1975,87        ,8,A,124 min,"Adventure, Thriller            ",547999,"260,000,000",Steven Spielberg
+73,Snatch,2000,None,8.3,UA,104 min,"Comedy, Crime            ",791221,"30,328,156",Guy Ritchie
+74,No Country for Old Men,2007,91        ,8.1,18,122 min,"Crime, Drama, Thriller            ",871576,"74,283,625",Ethan Coen
+75,The Lion King,1994,88        ,8.5,U,88 min,"Animation, Adventure, Drama            ",956688,"422,783,777",Roger Allers
+76,The Big Lebowski,1998,71        ,8.1,UA,117 min,"Comedy, Crime, Sport            ",741939,"17,498,804",Joel Coen
+77,Donnie Darko,2001,88        ,8,UA,113 min,"Drama, Mystery, Sci-Fi            ",747476,"1,480,006",Richard Kelly
+78,Into the Wild,2007,73        ,8.1,16,148 min,"Adventure, Biography, Drama            ",581054,"18,354,356",Sean Penn
+79,The Sixth Sense,1999,64        ,8.1,A,107 min,"Drama, Mystery, Thriller            ",920564,"293,506,292",M. Night Shyamalan
+80,District 9,2009,81        ,7.9,A,112 min,"Action, Sci-Fi, Thriller            ",642781,"115,646,235",Neill Blomkamp
+81,Gone with the Wind,1939,97        ,8.1,U,238 min,"Drama, History, Romance            ",293494,"198,676,459",Victor Fleming
+82,Kill Bill: Vol. 1,2003,69        ,8.1,R,111 min,"Action, Crime, Drama            ",1014050,"70,099,045",Quentin Tarantino
+83,Toy Story,1995,95        ,8.3,U,81 min,"Animation, Adventure, Comedy            ",900255,"191,796,233",John Lasseter
+84,Scarface,1983,65        ,8.3,A,170 min,"Crime, Drama            ",753662,"45,598,982",Brian De Palma
+85,2 Fast 2 Furious,2003,None,5.9,A,107 min,"Action, Crime, Thriller            ",254184,"127,154,901",John Singleton
+86,The Departed,2006,85        ,8.5,A,151 min,"Crime, Drama, Thriller            ",1207097,"132,384,315",Martin Scorsese
+87,Pirates of the Caribbean: The Curse of the Black Pearl,2003,63        ,8,UA,143 min,"Action, Adventure, Fantasy            ",1023425,"305,413,918",Gore Verbinski
+88,Iron Man 2,2010,None,7,UA,124 min,"Action, Adventure, Sci-Fi            ",734483,"312,433,331",Jon Favreau
+89,Machete,2010,None,6.6,R,105 min,"Action, Crime, Thriller            ",191080,"26,593,646",Ethan Maniquis
+90,The Expendables,2010,None,6.5,A,103 min,"Action, Adventure, Thriller            ",328276,"103,068,524",Sylvester Stallone
+91,Salt,2010,65        ,6.4,UA,100 min,"Action, Thriller            ",297937,"118,311,368",Phillip Noyce
+92,The Sorcerer's Apprentice,2010,None,6.1,PG,109 min,"Action, Adventure, Family            ",154383,"63,150,991",Jon Turteltaub
+93,Alice in Wonderland,2010,None,6.4,U,108 min,"Adventure, Family, Fantasy            ",387729,"334,191,110",Tim Burton
+94,Harry Potter and the Sorcerer's Stone,2001,64        ,7.6,U,152 min,"Adventure, Family, Fantasy            ",670427,"317,575,550",Chris Columbus
+95,Grown Ups,2010,None,5.9,A,102 min,Comedy            ,230799,"162,001,186",Dennis Dugan
+96,300,2006,None,7.6,A,117 min,"Action, Drama            ",740622,"210,614,939",Zack Snyder
+97,The Wrestler,2008,80        ,7.9,UA,109 min,"Drama, Sport            ",291404,"26,236,603",Darren Aronofsky
+98,Gandhi,1982,79        ,8,U,191 min,"Biography, Drama, History            ",219237,"52,767,889",Richard Attenborough
+99,The Terminator,1984,84        ,8,UA,107 min,"Action, Sci-Fi            ",805218,"38,400,000",James Cameron
+100,Twelve Monkeys,1995,74        ,8,A,129 min,"Mystery, Sci-Fi, Thriller            ",584082,"57,141,459",Terry Gilliam
+101,Good Will Hunting,1997,70        ,8.3,U,126 min,"Drama, Romance            ",874962,"138,433,435",Gus Van Sant
+102,Låt den rätte komma in,2008,82        ,7.9,R,114 min,"Crime, Drama, Fantasy            ",206956,"2,122,065",Tomas Alfredson
+103,The Exorcist,1973,81        ,8,A,122 min,Horror            ,365483,"232,906,145",William Friedkin
+104,Rocky,1976,70        ,8.1,U,120 min,"Drama, Sport            ",525736,"117,235,247",John G. Avildsen
+105,Big Fish,2003,None,8,U,125 min,"Adventure, Drama, Fantasy            ",418715,"66,257,002",Tim Burton
+106,Beauty and the Beast,1991,95        ,8,U,84 min,"Animation, Family, Fantasy            ",420500,"218,967,620",Gary Trousdale
+107,Mystic River,2003,84        ,7.9,A,138 min,"Crime, Drama, Mystery            ",423772,"90,135,191",Clint Eastwood
+108,Shutter Island,2010,63        ,8.2,A,138 min,"Mystery, Thriller            ",1152157,"128,012,934",Martin Scorsese
+109,Buried,2010,65        ,7,U,95 min,"Drama, Mystery, Thriller            ",151176,"1,028,658",Rodrigo Cortés
+110,The Bank Job,2008,69        ,7.2,None,111 min,"Crime, Drama, Thriller            ",174432,"30,028,592",Roger Donaldson
+111,Robin Hood,2010,None,6.6,PG-13,140 min,"Action, Adventure, Drama            ",255126,"105,269,730",Ridley Scott
+112,Saving Private Ryan,1998,91        ,8.6,15+,169 min,"Drama, War            ",1255067,"216,540,909",Steven Spielberg
+113,A Perfect Getaway,2009,63        ,6.5,R,98 min,"Drama, Mystery, Thriller            ",68163,"15,483,540",David Twohy
+114,Sherlock Holmes,2009,None,7.6,16,128 min,"Action, Adventure, Mystery            ",588376,"209,028,679",Guy Ritchie
+115,Sin City,2005,74        ,8,A,124 min,"Crime, Thriller            ",741514,"74,103,820",Frank Miller
+116,Harry Potter and the Half-Blood Prince,2009,78        ,7.6,UA,153 min,"Action, Adventure, Family            ",483671,"301,959,197",David Yates
+117,Star Wars: Episode I - The Phantom Menace,1999,None,6.5,UA,136 min,"Action, Adventure, Fantasy            ",740035,"474,544,677",George Lucas
+118,X-Men Origins: Wolverine,2009,None,6.6,UA,107 min,"Action, Sci-Fi            ",472171,"179,883,157",Gavin Hood
+119,Watchmen,2009,None,7.6,A,162 min,"Action, Drama, Mystery            ",511711,"107,509,799",Zack Snyder
+120,The Book of Eli,2010,None,6.9,A,118 min,"Action, Adventure, Drama            ",296803,"94,835,059",Albert Hughes
+121,Prince of Persia: The Sands of Time,2010,None,6.6,UA,116 min,"Action, Adventure, Fantasy            ",273877,"90,759,676",Mike Newell
+122,Shrek Forever After,2010,None,6.3,U,93 min,"Animation, Adventure, Comedy            ",187531,"238,371,987",Mike Mitchell
+123,Predators,2010,None,6.4,A,107 min,"Action, Adventure, Sci-Fi            ",213582,"52,000,688",Nimród Antal
+124,Superbad,2007,76        ,7.6,A,113 min,Comedy            ,527023,"121,463,226",Greg Mottola
+125,American Pie,1999,None,7,18,95 min,Comedy            ,379847,"102,561,004",Paul Weitz
+126,Scream,1996,65        ,7.3,UA,111 min,"Horror, Mystery            ",290839,"103,046,663",Wes Craven
+127,Star Wars: Episode V - The Empire Strikes Back,1980,82        ,8.7,UA,124 min,"Action, Adventure, Fantasy            ",1173847,"290,475,067",Irvin Kershner
+128,Finding Nemo,2003,90        ,8.1,U,100 min,"Animation, Adventure, Comedy            ",960802,"380,843,261",Andrew Stanton
+129,Love Actually,2003,None,7.6,A,135 min,"Comedy, Drama, Romance            ",440495,"59,696,144",Richard Curtis
+130,The Incredible Hulk,2008,61        ,6.7,UA,112 min,"Action, Adventure, Sci-Fi            ",440940,"134,518,390",Louis Leterrier
+131,Harry Potter and the Goblet of Fire,2005,81        ,7.7,UA,157 min,"Adventure, Family, Fantasy            ",557175,"290,013,036",Mike Newell
+132,A Nightmare on Elm Street,2010,None,5.2,A,95 min,"Crime, Drama, Horror            ",93796,"63,075,011",Samuel Bayer
+133,I Spit on Your Grave,2010,None,6.3,R,108 min,"Horror, Thriller            ",77475,"93,051",Steven R. Monroe
+134,Troy,2004,None,7.3,UA,163 min,"Drama, History            ",493859,"133,378,256",Wolfgang Petersen
+135,Star Wars: Episode III - Revenge of the Sith,2005,68        ,7.5,UA,140 min,"Action, Adventure, Fantasy            ",721228,"380,262,555",George Lucas
+136,Percy Jackson & the Olympians: The Lightning Thief,2010,None,5.9,U,118 min,"Adventure, Family, Fantasy            ",178765,"88,761,720",Chris Columbus
+137,Knocked Up,2007,85        ,6.9,18,129 min,"Comedy, Romance            ",353334,"148,734,225",Judd Apatow
+138,Juno,2007,81        ,7.4,PG-13,96 min,"Comedy, Drama            ",494616,"143,495,265",Jason Reitman
+139,X-Men,2000,64        ,7.4,UA,104 min,"Action, Adventure, Sci-Fi            ",576362,"157,299,717",Bryan Singer
+140,Zack and Miri Make a Porno,2008,None,6.5,R,101 min,"Comedy, Romance            ",172665,"31,457,946",Kevin Smith
+141,Law Abiding Citizen,2009,None,7.4,A,109 min,"Action, Crime, Drama            ",274729,"73,343,413",F. Gary Gray
+142,American Psycho,2000,64        ,7.6,A,101 min,"Comedy, Crime, Drama            ",502741,"15,070,285",Mary Harron
+143,Young People Fucking,2007,None,6.2,A,87 min,"Comedy, Drama, Romance            ",18982,None,Martin Gero
+144,X-Men: The Last Stand,2006,None,6.7,A,104 min,"Action, Adventure, Sci-Fi            ",487151,"234,362,462",Brett Ratner
+145,The Road,2009,64        ,7.2,R,111 min,Drama            ,225517,"56,692",John Hillcoat
+146,Public Enemies,2009,70        ,7,A,140 min,"Biography, Crime, Drama            ",284853,"97,104,620",Michael Mann
+147,Live Free or Die Hard,2007,69        ,7.1,UA,128 min,"Action, Thriller            ",391514,"134,529,403",Len Wiseman
+148,Wanted,2008,64        ,6.7,A,110 min,"Action, Crime, Thriller            ",362738,"134,508,551",Timur Bekmambetov
+149,The Lord of the Rings: The Two Towers,2002,87        ,8.7,UA,179 min,"Action, Adventure, Drama            ",1505519,"342,551,365",Peter Jackson
+150,Forgetting Sarah Marshall,2008,67        ,7.1,UA,111 min,"Comedy, Drama, Romance            ",267307,"63,172,463",Nicholas Stoller
+151,The Pianist,2002,85        ,8.5,13,150 min,"Biography, Drama, Music            ",743867,"32,572,577",Roman Polanski
+152,Tropic Thunder,2008,71        ,7,R,107 min,"Action, Comedy, War            ",382884,"110,515,313",Ben Stiller
+153,Death Race,2008,None,6.4,A,105 min,"Action, Sci-Fi, Thriller            ",199184,"36,316,032",Paul W.S. Anderson
+154,Alien,1979,89        ,8.4,R,117 min,"Horror, Sci-Fi            ",798984,"78,900,000",Ridley Scott
+155,The Last Airbender,2010,None,4,U,103 min,"Action, Adventure, Family            ",154274,"131,564,731",M. Night Shyamalan
+156,Stardust,2007,66        ,7.6,U,127 min,"Adventure, Family, Fantasy            ",257606,"38,634,938",Matthew Vaughn
+157,Day of the Dead,1985,None,7.2,A,96 min,"Horror, Thriller            ",63901,"5,804,262",George A. Romero
+158,Fido,2006,70        ,6.7,R,93 min,"Comedy, Drama, Horror            ",28277,"298,110",Andrew Currie
+159,Wedding Crashers,2005,64        ,6.9,UA,119 min,"Comedy, Romance            ",335309,"209,218,368",David Dobkin
+160,The Day the Earth Stood Still,2008,None,5.5,U,104 min,"Drama, Sci-Fi, Thriller            ",164590,"79,366,978",Scott Derrickson
+161,Star Wars: Episode VI - Return of the Jedi,1983,None,8.3,U,131 min,"Action, Adventure, Fantasy            ",962135,"309,125,409",Richard Marquand
+162,Jurassic Park,1993,68        ,8.1,UA,127 min,"Action, Adventure, Sci-Fi            ",880046,"402,453,882",Steven Spielberg
+163,Role Models,2008,61        ,6.8,UA,99 min,Comedy            ,221777,"67,294,270",David Wain
+164,The Curious Case of Benjamin Button,2008,70        ,7.8,UA,166 min,"Drama, Fantasy, Romance            ",597297,"127,509,326",David Fincher
+165,The Boy in the Striped Pyjamas,2008,None,7.8,PG-13,94 min,"Drama, History, War            ",193546,"9,030,581",Mark Herman
+166,Harry Potter and the Chamber of Secrets,2002,63        ,7.4,U,161 min,"Adventure, Family, Fantasy            ",563427,"261,988,482",Chris Columbus
+167,Star Wars: Episode II - Attack of the Clones,2002,None,6.5,UA,142 min,"Action, Adventure, Fantasy            ",650771,"310,675,583",George Lucas
+168,Million Dollar Baby,2004,86        ,8.1,UA,132 min,"Drama, Sport            ",643316,"100,492,203",Clint Eastwood
+169,The Devil Wears Prada,2006,62        ,6.9,UA,109 min,"Comedy, Drama            ",377325,"124,740,460",David Frankel
+170,The 40 Year Old Virgin,2005,73        ,7.1,UA,116 min,"Comedy, Romance            ",400661,"109,449,237",Judd Apatow
+171,Tekken,2010,None,4.8,R,87 min,"Action, Crime, Drama            ",26374,None,Dwight H. Little
+172,P.S. I Love You,2007,None,7,A,126 min,"Comedy, Drama, Romance            ",201357,"53,695,808",Richard LaGravenese
+173,Paranormal Activity 2,2010,None,5.6,UA,91 min,"Horror, Mystery            ",99313,"84,752,907",Tod Williams
+174,Gangs of New York,2002,72        ,7.5,A,167 min,"Crime, Drama            ",411048,"77,812,000",Martin Scorsese
+175,The Bourne Identity,2002,68        ,7.9,UA,119 min,"Action, Mystery, Thriller            ",513630,"121,661,683",Doug Liman
+176,Dear John,2010,None,6.3,U,108 min,"Drama, Mystery, Romance            ",140394,"80,014,842",Lasse Hallström
+177,Ghost Rider,2007,None,5.3,UA,110 min,"Action, Fantasy, Thriller            ",225427,"115,802,596",Mark Steven Johnson
+178,Catch Me If You Can,2002,75        ,8.1,A,141 min,"Biography, Crime, Drama            ",850195,"164,615,351",Steven Spielberg
+179,Paranormal Activity,2007,68        ,6.3,UA,86 min,"Horror, Mystery            ",222251,"107,918,810",Oren Peli
+180,Jumper,2008,None,6.1,UA,88 min,"Action, Adventure, Sci-Fi            ",288946,"80,172,128",Doug Liman
+181,Blow,2001,None,7.6,R,124 min,"Biography, Crime, Drama            ",243169,"52,990,775",Ted Demme
+182,Hot Fuzz,2007,81        ,7.8,UA,121 min,"Action, Comedy, Mystery            ",468918,"23,637,265",Edgar Wright
+183,Hancock,2008,None,6.4,UA,92 min,"Action, Drama, Fantasy            ",448581,"227,946,274",Peter Berg
+184,Case 39,2009,None,6.2,R,109 min,"Horror, Mystery, Thriller            ",80167,"13,248,477",Christian Alvart
+185,Conan the Barbarian,1982,None,6.9,A,129 min,"Action, Adventure, Fantasy            ",138797,"39,565,475",John Milius
+186,Dumb and Dumber,1994,None,7.3,UA,107 min,Comedy            ,356463,"127,175,354",Peter Farrelly
+187,Sweeney Todd: The Demon Barber of Fleet Street,2007,83        ,7.3,A,116 min,"Drama, Horror, Musical            ",347342,"52,898,073",Tim Burton
+188,National Treasure,2004,None,6.9,U,131 min,"Action, Adventure, Mystery            ",307267,"173,008,894",Jon Turteltaub
+189,Daybreakers,2009,None,6.4,R,98 min,"Action, Adventure, Fantasy            ",122888,"30,101,577",Michael Spierig
+190,Shooter,2007,None,7.2,A,124 min,"Action, Drama, Thriller            ",313490,"47,003,582",Antoine Fuqua
+191,Mortal Kombat,1995,None,5.8,UA,101 min,"Action, Adventure, Fantasy            ",105803,"70,454,098",Paul W.S. Anderson
+192,The Illusionist,2006,68        ,7.6,U,110 min,"Drama, Fantasy, Mystery            ",357045,"39,868,642",Neil Burger
+193,Spider-Man 2,2004,83        ,7.3,U,127 min,"Action, Adventure, Sci-Fi            ",551018,"373,585,825",Sam Raimi
+194,The Butterfly Effect,2004,None,7.6,UA,113 min,"Drama, Sci-Fi, Thriller            ",455423,"57,938,693",Eric Bress
+195,Pearl Harbor,2001,None,6.2,UA,183 min,"Action, Drama, History            ",314038,"198,542,554",Michael Bay
+196,Superman,1978,80        ,7.3,U,143 min,"Action, Adventure, Drama            ",161060,"134,218,018",Richard Donner
+197,Batman,1989,69        ,7.5,U,126 min,"Action, Adventure            ",342108,"251,188,924",Tim Burton
+198,Saw 3D,2010,None,5.6,R,90 min,"Crime, Horror, Mystery            ",91480,"45,710,178",Kevin Greutert
+199,Inside Man,2006,76        ,7.6,18,129 min,"Crime, Drama, Mystery            ",345217,"88,513,495",Spike Lee
+200,Return of the Living Dead: Part II,1988,None,5.8,None,89 min,"Comedy, Horror, Sci-Fi            ",18450,"9,205,924",Ken Wiederhorn
+201,Planet of the Apes,2001,None,5.7,UA,119 min,"Action, Adventure, Sci-Fi            ",211564,"180,011,740",Tim Burton
+202,The Bourne Supremacy,2004,73        ,7.7,A,108 min,"Action, Mystery, Thriller            ",438550,"176,241,941",Paul Greengrass
+203,Cloverfield,2008,64        ,7,A,85 min,"Action, Horror, Sci-Fi            ",375742,"80,048,433",Matt Reeves
+204,Scream 3,2000,None,5.6,UA,116 min,"Horror, Mystery            ",125064,"89,138,076",Wes Craven
+205,Orphan,2009,None,7,A,123 min,"Horror, Mystery, Thriller            ",194120,"41,596,251",Jaume Collet-Serra
+206,Angels & Demons,2009,None,6.7,A,138 min,"Action, Mystery, Thriller            ",276715,"133,375,846",Ron Howard
+207,Team America: World Police,2004,64        ,7.2,A,98 min,"Action, Comedy            ",160532,"32,774,834",Trey Parker
+208,Scream 2,1997,63        ,6.2,UA,120 min,"Horror, Mystery            ",159213,"101,363,301",Wes Craven
+209,Training Day,2001,69        ,7.7,A,122 min,"Crime, Drama, Thriller            ",397773,"76,631,907",Antoine Fuqua
+210,Hitman,2007,None,6.3,16,100 min,"Action, Crime, Thriller            ",161894,"39,687,694",Xavier Gens
+211,Underworld,2003,None,7,A,121 min,"Action, Fantasy, Thriller            ",254931,"51,970,690",Len Wiseman
+212,Predator,1987,None,7.8,A,107 min,"Action, Adventure, Sci-Fi            ",375757,"59,735,548",John McTiernan
+213,Shrek,2001,84        ,7.8,U,90 min,"Animation, Adventure, Comedy            ",621230,"267,665,011",Andrew Adamson
+214,Running Scared,2006,None,7.4,R,122 min,"Action, Crime, Drama            ",97363,"6,855,137",Wayne Kramer
+215,The Dead Next Door,1989,None,5.1,None,78 min,Horror            ,2928,None,J.R. Bookwalter
+216,Kill Bill: Vol. 2,2004,83        ,8,A,137 min,"Action, Crime, Thriller            ",692280,"66,208,183",Quentin Tarantino
+217,Saw,2004,None,7.6,UA,103 min,"Horror, Mystery, Thriller            ",383115,"56,000,369",James Wan
+218,From Dusk Till Dawn,1996,None,7.2,A,108 min,"Action, Crime, Horror            ",290317,"25,753,840",Robert Rodriguez
+219,Zodiac,2007,78        ,7.7,UA,157 min,"Crime, Drama, Mystery            ",476576,"33,080,084",David Fincher
+220,Yes Man,2008,None,6.8,PG-13,104 min,"Comedy, Romance            ",339121,"97,690,976",Peyton Reed
+221,Fantastic Four,2005,None,5.7,UA,106 min,"Action, Adventure, Fantasy            ",313768,"154,696,080",Tim Story
+222,The Matrix Reloaded,2003,62        ,7.2,UA,138 min,"Action, Sci-Fi            ",521994,"281,492,479",Lana Wachowski
+223,The Italian Job,2003,68        ,7,UA,111 min,"Action, Crime, Thriller            ",345172,"106,128,601",F. Gary Gray
+224,Eagle Eye,2008,None,6.6,PG-13,118 min,"Action, Mystery, Thriller            ",177464,"101,111,837",D.J. Caruso
+225,The Day After Tomorrow,2004,None,6.4,U,124 min,"Action, Adventure, Sci-Fi            ",419457,"186,740,799",Roland Emmerich
+226,17 Again,2009,None,6.4,UA,102 min,"Comedy, Drama, Fantasy            ",183442,"64,167,069",Burr Steers
+227,Man on Fire,2004,None,7.7,UA,146 min,"Action, Crime, Drama            ",332940,"77,911,774",Tony Scott
+228,Lord of War,2005,62        ,7.6,R,122 min,"Action, Crime, Drama            ",296547,"24,149,632",Andrew Niccol
+229,Remember the Titans,2000,None,7.8,U,113 min,"Biography, Drama, Sport            ",200199,"115,654,751",Boaz Yakin
+230,21,2008,None,6.8,PG-13,123 min,"Crime, Drama, History            ",231803,"81,159,365",Robert Luketic
+231,Moulin Rouge!,2001,66        ,7.6,UA,127 min,"Drama, Musical, Romance            ",269129,"57,386,607",Baz Luhrmann
+232,New Kids Turbo,2010,None,6.4,None,84 min,"Action, Comedy            ",15207,None,Steffen Haars
+233,The Haunted Mansion,2003,None,5,U,99 min,"Comedy, Family, Fantasy            ",43568,"75,847,266",Rob Minkoff
+234,X2,2003,68        ,7.4,UA,134 min,"Action, Sci-Fi, Thriller            ",516529,"214,949,694",Bryan Singer
+235,The Da Vinci Code,2006,None,6.6,(Banned),149 min,"Mystery, Thriller            ",405725,"217,536,138",Ron Howard
+236,Ocean's Thirteen,2007,62        ,6.9,UA,122 min,"Action, Crime, Thriller            ",324724,"117,154,724",Steven Soderbergh
+237,8 Mile,2002,77        ,7.1,UA,110 min,"Drama, Music            ",252818,"116,724,075",Curtis Hanson
+238,Collateral,2004,71        ,7.5,A,120 min,"Crime, Drama, Thriller            ",365762,"101,005,703",Michael Mann
+239,The Chronicles of Riddick,2004,None,6.7,UA,119 min,"Action, Adventure, Sci-Fi            ",215948,"57,761,012",David Twohy
+240,Perfume: The Story of a Murderer,2006,None,7.5,R,147 min,"Crime, Drama, Fantasy            ",236659,"2,223,293",Tom Tykwer
+241,Get Smart,2008,None,6.5,UA,110 min,"Action, Adventure, Comedy            ",205691,"130,319,208",Peter Segal
+242,Charlie and the Chocolate Factory,2005,72        ,6.6,U,115 min,"Adventure, Comedy, Family            ",434808,"206,459,076",Tim Burton
+243,National Treasure: Book of Secrets,2007,None,6.5,U,124 min,"Action, Adventure, Mystery            ",220725,"219,964,115",Jon Turteltaub
+244,Starship Troopers,1997,None,7.2,A,129 min,"Action, Adventure, Sci-Fi            ",272345,"54,814,377",Paul Verhoeven
+245,The Devil's Advocate,1997,None,7.5,A,144 min,"Drama, Mystery, Thriller            ",336810,"60,984,028",Taylor Hackford
+246,"I, Robot",2004,None,7.1,UA,115 min,"Action, Drama, Sci-Fi            ",503246,"144,801,023",Alex Proyas
+247,Scary Movie,2000,None,6.2,15+,88 min,Comedy            ,234586,"157,019,771",Keenen Ivory Wayans
+248,True Lies,1994,63        ,7.2,A,141 min,"Action, Comedy, Thriller            ",240556,"146,282,411",James Cameron
+249,Twister,1996,68        ,6.4,UA,113 min,"Action, Adventure, Thriller            ",178962,"241,721,524",Jan de Bont
+250,Mulan,1998,71        ,7.6,U,88 min,"Animation, Adventure, Family            ",260698,"120,620,254",Tony Bancroft
+251,Untraceable,2008,None,6.2,R,101 min,"Crime, Mystery, Thriller            ",47868,"28,687,835",Gregory Hoblit
+252,Transporter 2,2005,None,6.3,A,87 min,"Action, Crime, Thriller            ",192960,"43,095,600",Louis Leterrier
+253,Rush Hour,1998,None,7,UA,98 min,"Action, Comedy, Crime            ",241854,"141,153,686",Brett Ratner
+254,Saw VI,2009,None,6,A,90 min,"Horror, Mystery, Thriller            ",103028,"27,693,292",Kevin Greutert
+255,Mad Max,1979,73        ,6.9,A,88 min,"Action, Adventure, Sci-Fi            ",193668,"8,750,000",George Miller
+256,Final Destination 2,2003,None,6.2,A,90 min,"Horror, Thriller            ",153801,"46,961,214",David R. Ellis
+257,Ghost Town,2008,72        ,6.7,PG-13,102 min,"Comedy, Drama, Fantasy            ",70520,"13,214,030",David Koepp
+258,Flightplan,2005,None,6.3,U,98 min,"Drama, Mystery, Thriller            ",153541,"89,707,299",Robert Schwentke
+259,Street Kings,2008,None,6.8,R,109 min,"Action, Crime, Drama            ",107976,"26,415,649",David Ayer
+260,Rambo,2008,None,7,R,92 min,"Action, Thriller            ",219841,"42,754,105",Sylvester Stallone
+261,Pet Sematary II,1992,None,4.9,18,100 min,"Fantasy, Horror            ",19924,"17,092,453",Mary Lambert
+262,A Knight's Tale,2001,None,6.9,A,132 min,"Action, Adventure, Romance            ",173818,"56,569,702",Brian Helgeland
+263,The Ring,2002,None,7.1,UA,115 min,"Horror, Mystery            ",324142,"129,128,133",Gore Verbinski
+264,Babel,2006,69        ,7.4,R,143 min,Drama            ,291584,"34,302,837",Alejandro G. Iñárritu
+265,[Rec],2007,69        ,7.4,A,78 min,"Action, Adventure, Fantasy            ",167175,None,Jaume Balagueró
+266,Alexander,2004,None,5.6,UA,175 min,"Action, Biography, Drama            ",163631,"34,297,191",Oliver Stone
+267,Not Another Teen Movie,2001,None,5.7,18,89 min,Comedy            ,98664,"38,252,284",Joel Gallen
+268,The Tournament,2009,None,6.1,R,95 min,"Action, Thriller            ",34206,None,Scott Mann
+269,The Last Samurai,2003,None,7.7,UA,154 min,"Action, Drama            ",404171,"111,110,575",Edward Zwick
+270,Underworld: Rise of the Lycans,2009,None,6.6,A,92 min,"Action, Fantasy, Thriller            ",152414,"45,802,315",Patrick Tatopoulos
+271,Hitch,2005,None,6.6,U,118 min,"Comedy, Romance            ",298436,"179,495,555",Andy Tennant
+272,What Happens in Vegas,2008,None,6.1,UA,99 min,"Comedy, Romance            ",166249,"80,277,646",Tom Vaughan
+273,Edward Scissorhands,1990,74        ,7.9,U,105 min,"Drama, Fantasy, Romance            ",451743,"56,362,352",Tim Burton
+274,The Bucket List,2007,None,7.4,PG-13,97 min,"Adventure, Comedy, Drama            ",232851,"93,466,502",Rob Reiner
+275,King Kong,2005,81        ,7.2,UA,187 min,"Action, Adventure, Drama            ",398518,"218,080,025",Peter Jackson
+276,4: Rise of the Silver Surfer,2007,None,5.6,U,92 min,"Action, Adventure, Fantasy            ",252551,"131,921,738",Tim Story
+277,The Holiday,2006,None,6.9,UA,136 min,"Comedy, Romance            ",254653,"63,224,849",Nancy Meyers
+278,Ocean's Twelve,2004,None,6.5,UA,125 min,"Crime, Thriller            ",363058,"125,544,280",Steven Soderbergh
+279,Terminator 3: Rise of the Machines,2003,66        ,6.3,UA,109 min,"Action, Sci-Fi            ",379982,"150,371,112",Jonathan Mostow
+280,War of the Worlds,2005,73        ,6.5,UA,116 min,"Adventure, Sci-Fi, Thriller            ",419753,"234,280,354",Steven Spielberg
+281,Munich,2005,74        ,7.5,A,164 min,"Action, Drama, History            ",214248,"47,403,685",Steven Spielberg
+282,Hulk,2003,None,5.6,UA,138 min,"Action, Sci-Fi            ",253775,"132,177,234",Ang Lee
+283,Click,2006,None,6.4,A,107 min,"Comedy, Drama, Fantasy            ",308908,"137,355,633",Frank Coraci
+284,Beowulf,2007,None,6.2,PG-13,115 min,"Animation, Action, Adventure            ",162464,"82,161,969",Robert Zemeckis
+285,The Matrix Revolutions,2003,None,6.8,UA,129 min,"Action, Sci-Fi            ",453274,"139,313,948",Lana Wachowski
+286,Batman Forever,1995,None,5.4,UA,121 min,"Action, Adventure            ",236982,"184,031,112",Joel Schumacher
+287,The Patriot,2000,63        ,7.2,A,165 min,"Action, Drama, History            ",256935,"113,330,342",Roland Emmerich
+288,The Transporter,2002,None,6.8,A,92 min,"Action, Crime, Thriller            ",286940,"25,296,447",Louis Leterrier
+289,Bad Boys,1995,None,6.9,A,119 min,"Action, Comedy, Crime            ",243262,"65,807,024",Michael Bay
+290,Hooligans,2005,None,7.5,A,109 min,"Crime, Drama, Sport            ",143076,"344,095",Lexi Alexander
+291,The Mist,2007,None,7.1,R,126 min,"Horror, Sci-Fi, Thriller            ",283788,"25,593,755",Frank Darabont
+292,Friday the 13th,2009,None,5.5,R,97 min,"Horror, Mystery, Thriller            ",99049,"65,002,019",Marcus Nispel
+293,The Godfather: Part III,1990,None,7.6,A,162 min,"Crime, Drama            ",365560,"66,666,062",Francis Ford Coppola
+294,Toy Story 2,1999,88        ,7.9,U,92 min,"Animation, Adventure, Comedy            ",533639,"245,852,179",John Lasseter
+295,King Arthur,2004,None,6.3,UA,126 min,"Action, Adventure, Drama            ",160524,"51,882,244",Antoine Fuqua
+296,Insomnia,2002,78        ,7.2,UA,118 min,"Drama, Mystery, Thriller            ",278260,"67,355,513",Christopher Nolan
+297,Crank,2006,None,6.9,A,88 min,"Action, Crime, Thriller            ",236159,"27,829,874",Mark Neveldine
+298,Gone in Sixty Seconds,2000,None,6.5,U,118 min,"Action, Crime, Thriller            ",262789,"101,648,571",Dominic Sena
+299,50 First Dates,2004,None,6.8,UA,99 min,"Comedy, Drama, Romance            ",330684,"120,908,074",Peter Segal
+300,Vanilla Sky,2001,None,6.9,18,136 min,"Fantasy, Mystery, Romance            ",251076,"100,614,858",Cameron Crowe
+301,The Perfect Storm,2000,None,6.4,UA,130 min,"Action, Adventure, Drama            ",157778,"182,618,434",Wolfgang Petersen
+302,Crank: High Voltage,2009,None,6.2,R,96 min,"Action, Crime, Thriller            ",141909,"13,630,226",Mark Neveldine
+303,Blade,1998,None,7.1,R,120 min,"Action, Horror, Sci-Fi            ",248465,"70,087,718",Stephen Norrington
+304,You Don't Mess with the Zohan,2008,None,5.5,PG-13,113 min,Comedy            ,192449,"100,018,837",Dennis Dugan
+305,30 Days of Night,2007,None,6.6,A,113 min,"Action, Horror, Thriller            ",166144,"39,568,996",David Slade
+306,Men in Black,1997,71        ,7.3,UA,98 min,"Action, Adventure, Comedy            ",521104,"250,690,539",Barry Sonnenfeld
+307,Step Up,2006,None,6.5,U,104 min,"Crime, Drama, Music            ",111661,"65,328,121",Anne Fletcher
+308,The Kingdom,2007,None,7,R,110 min,"Action, Drama, Thriller            ",118624,"47,536,778",Peter Berg
+309,National Lampoon's Van Wilder,2002,None,6.4,A,92 min,"Comedy, Romance            ",104198,"21,005,329",Walt Becker
+310,The Box,2009,None,5.6,PG-13,115 min,"Drama, Mystery, Thriller            ",89294,"15,045,676",Richard Kelly
+311,1408,2007,64        ,6.8,A,104 min,"Fantasy, Horror, Mystery            ",257152,"71,985,628",Mikael Håfström
+312,Transporter 3,2008,None,6.1,UA,104 min,"Action, Crime, Thriller            ",158873,"31,715,062",Olivier Megaton
+313,Total Recall,1990,None,7.5,A,113 min,"Action, Sci-Fi, Thriller            ",305921,"119,394,840",Paul Verhoeven
+314,Austin Powers: International Man of Mystery,1997,None,7,UA,94 min,"Adventure, Comedy            ",223707,"53,883,989",Jay Roach
+315,Legally Blonde,2001,None,6.3,U,96 min,"Comedy, Romance            ",189851,"96,520,674",Robert Luketic
+316,Mission: Impossible III,2006,66        ,6.9,UA,126 min,"Action, Adventure, Thriller            ",333582,"134,029,801",J.J. Abrams
+317,Meet the Fockers,2004,None,6.3,A,115 min,"Comedy, Romance            ",254992,"279,261,160",Jay Roach
+318,There's Something About Mary,1998,69        ,7.1,A,119 min,"Comedy, Romance            ",293454,"176,484,651",Bobby Farrelly
+319,Natural Born Killers,1994,74        ,7.3,A,118 min,"Action, Crime, Drama            ",219239,"50,282,766",Oliver Stone
+320,Austin Powers in Goldmember,2002,62        ,6.2,UA,94 min,"Action, Adventure, Comedy            ",197302,"213,307,889",Jay Roach
+321,Eragon,2006,None,5.1,U,104 min,"Action, Adventure, Family            ",122618,"75,030,163",Stefen Fangmeier
+322,Apollo 13,1995,77        ,7.6,U,140 min,"Adventure, Drama, History            ",273369,"173,837,933",Ron Howard
+323,Be Cool,2005,None,5.7,PG-13,118 min,"Comedy, Crime, Music            ",67498,"56,046,979",F. Gary Gray
+324,Grease 2,1982,None,4.4,A,115 min,"Comedy, Drama, Musical            ",33253,"15,171,476",Patricia Birch
+325,Dodgeball: A True Underdog Story,2004,None,6.7,UA,92 min,"Comedy, Sport            ",231504,"114,326,736",Rawson Marshall Thurber
+326,Dogma,1999,62        ,7.3,R,130 min,"Adventure, Comedy, Drama            ",208902,"30,651,422",Kevin Smith
+327,Signs,2002,None,6.7,UA,106 min,"Drama, Mystery, Sci-Fi            ",340138,"227,966,634",M. Night Shyamalan
+328,The Punisher,2004,None,6.4,A,124 min,"Action, Crime, Drama            ",150818,"33,682,273",Jonathan Hensleigh
+329,Road Trip,2000,None,6.4,A,93 min,Comedy            ,159456,"68,540,777",Todd Phillips
+330,Bad Boys II,2003,None,6.6,UA,147 min,"Action, Comedy, Crime            ",234086,"138,608,444",Michael Bay
+331,The Prince & Me,2004,None,5.9,U,111 min,"Comedy, Family, Romance            ",37888,"28,176,497",Martha Coolidge
+332,The Royal Tenenbaums,2001,76        ,7.6,A,110 min,"Comedy, Drama            ",270246,"52,364,010",Wes Anderson
+333,Evan Almighty,2007,None,5.4,U,96 min,"Comedy, Family, Fantasy            ",140432,"100,462,298",Tom Shadyac
+334,The Others,2001,74        ,7.6,13,101 min,"Horror, Mystery, Thriller            ",341499,"96,522,687",Alejandro Amenábar
+335,The Golden Compass,2007,None,6.1,UA,113 min,"Adventure, Family, Fantasy            ",180489,"70,107,728",Chris Weitz
+336,The Untouchables,1987,79        ,7.9,A,119 min,"Crime, Drama, Thriller            ",285900,"76,270,454",Brian De Palma
+337,The Longest Yard,2005,None,6.4,UA,113 min,"Comedy, Crime, Sport            ",164621,"158,119,460",Peter Segal
+338,Chocolat,2000,64        ,7.2,U,121 min,"Drama, Romance            ",179210,"71,509,363",Lasse Hallström
+339,Donnie Brasco,1997,76        ,7.7,A,127 min,"Biography, Crime, Drama            ",283827,"41,909,762",Mike Newell
+340,Notting Hill,1999,68        ,7.1,U,124 min,"Comedy, Drama, Romance            ",279823,"116,089,678",Roger Michell
+341,"10,000 BC",2008,None,5.1,UA,109 min,"Action, Adventure, Drama            ",126355,"94,784,201",Roland Emmerich
+342,Shrek the Third,2007,None,6.1,U,93 min,"Animation, Adventure, Comedy            ",284137,"320,706,665",Chris Miller
+343,Finding Neverland,2004,67        ,7.6,U,106 min,"Biography, Drama, Family            ",199918,"51,680,613",Marc Forster
+344,El orfanato,2007,74        ,7.4,R,105 min,"Drama, Fantasy, Horror            ",148006,"7,161,284",J.A. Bayona
+345,Big Daddy,1999,None,6.4,U,93 min,"Comedy, Drama            ",202034,"163,479,795",Dennis Dugan
+346,A Series of Unfortunate Events,2004,62        ,6.8,U,108 min,"Adventure, Comedy, Family            ",197812,"118,627,117",Brad Silberling
+347,The Strangers,2008,None,6.2,R,86 min,"Horror, Mystery, Thriller            ",119273,"52,597,610",Bryan Bertino
+348,Alien: Resurrection,1997,63        ,6.2,A,109 min,"Action, Horror, Sci-Fi            ",231678,"47,748,610",Jean-Pierre Jeunet
+349,The Hitchhiker's Guide to the Galaxy,2005,63        ,6.8,PG,109 min,"Adventure, Comedy, Sci-Fi            ",187798,"51,085,416",Garth Jennings
+350,The Final Destination,2009,None,5.2,A,82 min,"Action, Horror, Thriller            ",98129,"66,477,700",David R. Ellis
+351,Jackie Brown,1997,64        ,7.5,15+,154 min,"Crime, Drama, Thriller            ",320720,"39,673,162",Quentin Tarantino
+352,Anger Management,2003,None,6.3,A,106 min,Comedy            ,204722,"135,645,823",Peter Segal
+353,A Man Apart,2003,None,6.1,R,109 min,"Action, Crime, Drama            ",45449,"26,183,197",F. Gary Gray
+354,Just Like Heaven,2005,None,6.7,U,95 min,"Comedy, Drama, Fantasy            ",100356,"48,318,130",Mark Waters
+355,The Hot Chick,2002,None,5.5,PG-13,104 min,"Comedy, Fantasy            ",90708,"35,081,594",Tom Brady
+356,Batman & Robin,1997,None,3.8,UA,125 min,"Action, Sci-Fi            ",236443,"107,325,195",Joel Schumacher
+357,Next,2007,None,6.2,UA,96 min,"Action, Sci-Fi, Thriller            ",150935,"18,211,013",Lee Tamahori
+358,Blade: Trinity,2004,None,5.9,R,113 min,"Action, Adventure, Fantasy            ",167414,"52,411,906",David S. Goyer
+359,Van Helsing,2004,None,6.1,UA,131 min,"Action, Adventure, Fantasy            ",247168,"120,177,084",Stephen Sommers
+360,American Pie 2,2001,None,6.4,R,108 min,Comedy            ,242136,"145,103,595",J.B. Rogers
+361,Monster,2003,74        ,7.3,A,109 min,"Biography, Crime, Drama            ",138269,"34,469,210",Patty Jenkins
+362,I Now Pronounce You Chuck & Larry,2007,None,5.9,UA,115 min,"Comedy, Romance            ",141888,"120,059,556",Dennis Dugan
+363,American Wedding,2003,None,6.3,R,96 min,Comedy            ,196208,"104,565,114",Jesse Dylan
+364,Robin Hood: Prince of Thieves,1991,None,6.9,U,143 min,"Action, Adventure, Drama            ",180165,"165,500,000",Kevin Reynolds
+365,The Parent Trap,1998,64        ,6.5,U,128 min,"Adventure, Comedy, Drama            ",122779,"66,308,518",Nancy Meyers
+366,Hostel,2005,None,5.9,A,94 min,Horror            ,171142,"47,326,473",Eli Roth
+367,The Hills Have Eyes,2006,None,6.4,A,107 min,"Horror, Thriller            ",160090,"41,778,863",Alexandre Aja
+368,The Last of the Mohicans,1992,76        ,7.7,UA,112 min,"Action, Adventure, Drama            ",153232,"75,505,856",Michael Mann
+369,Dragonball Evolution,2009,None,2.5,U,85 min,"Action, Adventure, Fantasy            ",70906,"9,353,573",James Wong
+370,The Amityville Horror,2005,None,6,A,90 min,Horror            ,106068,"65,233,369",Andrew Douglas
+371,The Simpsons Movie,2007,80        ,7.3,U,87 min,"Animation, Adventure, Comedy            ",311110,"183,135,014",David Silverman
+372,Batman Returns,1992,68        ,7,UA,126 min,"Action, Crime, Fantasy            ",277542,"162,831,698",Tim Burton
+373,White Chicks,2004,None,5.6,PG-13,109 min,"Comedy, Crime            ",133060,"70,831,760",Keenen Ivory Wayans
+374,Shrek 2,2004,75        ,7.2,U,93 min,"Animation, Adventure, Comedy            ",425149,"436,471,036",Andrew Adamson
+375,Night at the Museum,2006,None,6.4,PG,108 min,"Adventure, Comedy, Family            ",318604,"250,863,268",Shawn Levy
+376,The Wedding Singer,1998,None,6.8,PG-13,97 min,"Comedy, Music, Romance            ",136543,"80,245,725",Frank Coraci
+377,Bruce Almighty,2003,None,6.8,UA,101 min,"Comedy, Fantasy            ",375045,"242,829,261",Tom Shadyac
+378,Spaceballs,1987,None,7.1,U,96 min,"Adventure, Comedy, Sci-Fi            ",173666,"38,119,483",Mel Brooks
+379,The International,2009,None,6.5,R,118 min,"Action, Crime, Drama            ",92123,"25,450,527",Tom Tykwer
+380,Die Hard: With a Vengeance,1995,None,7.6,A,128 min,"Action, Adventure, Thriller            ",367106,"100,012,499",John McTiernan
+381,Austin Powers: The Spy Who Shagged Me,1999,None,6.6,UA,95 min,"Action, Adventure, Comedy            ",218568,"206,040,086",Jay Roach
+382,Desperado,1995,None,7.2,A,104 min,"Action, Crime, Thriller            ",173058,"25,625,110",Robert Rodriguez
+383,The Sweetest Thing,2002,None,5.2,A,84 min,"Comedy, Romance            ",55424,"24,718,164",Roger Kumble
+384,Underworld: Evolution,2006,None,6.7,A,106 min,"Action, Fantasy, Thriller            ",191095,"62,318,875",Len Wiseman
+385,RoboCop,1987,67        ,7.6,A,102 min,"Action, Crime, Sci-Fi            ",236007,"53,424,681",Paul Verhoeven
+386,The Mask,1994,None,6.9,U,101 min,"Action, Comedy, Crime            ",351307,"119,938,730",Chuck Russell
+387,Charlie's Angels,2000,None,5.5,A,98 min,"Action, Adventure, Comedy            ",177584,"125,305,545",McG
+388,Black Dynamite,2009,65        ,7.4,R,84 min,"Action, Comedy            ",46349,"228,477",Scott Sanders
+389,Men in Black II,2002,None,6.2,UA,88 min,"Action, Adventure, Comedy            ",346751,"190,418,803",Barry Sonnenfeld
+390,Antz,1998,72        ,6.5,PG,83 min,"Animation, Adventure, Comedy            ",147352,"90,757,863",Eric Darnell
+391,World Trade Center,2006,66        ,5.9,U,129 min,"Drama, History, Thriller            ",78093,"70,278,893",Oliver Stone
+392,Shallow Hal,2001,None,5.9,UA,114 min,"Comedy, Drama, Fantasy            ",128378,"70,836,296",Bobby Farrelly
+393,The Evil Dead,1981,71        ,7.5,A,85 min,Horror            ,189266,"2,400,000",Sam Raimi
+394,Memoirs of a Geisha,2005,None,7.4,PG-13,145 min,"Drama, Romance            ",139050,"57,490,508",Rob Marshall
+395,About a Boy,2002,75        ,7,U,101 min,"Comedy, Drama, Romance            ",174313,"41,385,278",Chris Weitz
+396,Die Another Day,2002,None,6.1,A,133 min,"Action, Adventure, Thriller            ",206913,"160,942,139",Lee Tamahori
+397,The Lost World: Jurassic Park,1997,None,6.6,UA,129 min,"Action, Adventure, Sci-Fi            ",383415,"229,086,679",Steven Spielberg
+398,We Were Soldiers,2002,65        ,7.2,UA,138 min,"Action, Drama, History            ",131688,"78,122,718",Randall Wallace
+399,Mortal Kombat: Annihilation,1997,None,3.7,UA,95 min,"Action, Adventure, Fantasy            ",48316,"35,927,406",John R. Leonetti
+400,Madagascar: Escape 2 Africa,2008,61        ,6.6,U,89 min,"Animation, Adventure, Comedy            ",208573,"180,010,950",Eric Darnell
+401,Walking Tall,2004,None,6.3,PG-13,86 min,"Action, Crime            ",71404,"45,860,039",Kevin Bray
+402,Die Hard 2,1990,67        ,7.2,A,124 min,"Action, Thriller            ",341013,"117,540,947",Renny Harlin
+403,The Nightmare Before Christmas,1993,82        ,8,U,76 min,"Animation, Family, Fantasy            ",302867,"75,082,668",Henry Selick
+404,Stargate,1994,None,7.1,U,116 min,"Action, Adventure, Sci-Fi            ",177068,"71,565,669",Roland Emmerich
+405,Bridget Jones's Diary,2001,66        ,6.7,A,97 min,"Comedy, Drama, Romance            ",229065,"71,543,427",Sharon Maguire
+406,From Hell,2001,None,6.8,A,122 min,"Horror, Mystery, Thriller            ",148175,"31,602,566",Albert Hughes
+407,Daredevil,2003,None,5.3,UA,103 min,"Action, Crime            ",207922,"102,543,520",Mark Steven Johnson
+408,Lara Croft: Tomb Raider,2001,None,5.8,U,100 min,"Action, Adventure, Fantasy            ",199327,"131,144,183",Simon West
+409,Mission: Impossible,1996,None,7.2,U,110 min,"Action, Adventure, Thriller            ",392082,"180,981,856",Brian De Palma
+410,Jay and Silent Bob Strike Back,2001,None,6.8,U,104 min,Comedy            ,149214,"30,059,386",Kevin Smith
+411,The Terminal,2004,None,7.4,U,128 min,"Comedy, Drama, Romance            ",413127,"77,872,883",Steven Spielberg
+412,Along Came Polly,2004,None,6,UA,90 min,"Comedy, Romance            ",127472,"88,097,164",John Hamburg
+413,The Devil's Rejects,2005,None,6.8,A,107 min,Horror            ,93951,"17,044,981",Rob Zombie
+414,Banlieue 13: Ultimatum,2009,64        ,6.5,UA,101 min,"Action, Crime, Thriller            ",43117,"36,039",Patrick Alessandrin
+415,The Mummy Returns,2001,None,6.4,A,130 min,"Action, Adventure, Fantasy            ",303441,"202,019,785",Stephen Sommers
+416,Alien³,1992,None,6.5,A,114 min,"Action, Horror, Sci-Fi            ",280984,"55,473,600",David Fincher
+417,Mrs. Doubtfire,1993,None,7,U,125 min,"Comedy, Drama, Family            ",249077,"219,200,000",Chris Columbus
+418,The Dukes of Hazzard,2005,None,5.1,PG-13,104 min,Comedy            ,76074,"80,270,227",Jay Chandrasekhar
+419,Clerks II,2006,65        ,7.3,R,97 min,Comedy            ,130625,"24,138,847",Kevin Smith
+420,The Abyss,1989,62        ,7.5,U,140 min,"Adventure, Drama, Mystery            ",164300,"54,461,047",James Cameron
+421,Scary Movie 2,2001,None,5.3,15+,83 min,Comedy            ,151009,"71,308,997",Keenen Ivory Wayans
+422,Mary Poppins,1964,88        ,7.8,U,139 min,"Comedy, Family, Fantasy            ",159724,"102,272,727",Robert Stevenson
+423,Coach Carter,2005,None,7.3,PG-13,136 min,"Biography, Drama, Sport            ",131160,"67,264,877",Thomas Carter
+424,Police Academy,1984,None,6.7,A,96 min,Comedy            ,115988,"81,198,894",Hugh Wilson
+425,Cube,1997,61        ,7.2,UA,90 min,"Drama, Mystery, Sci-Fi            ",215191,"501,818",Vincenzo Natali
+426,Clerks,1994,70        ,7.7,U,92 min,Comedy            ,212785,"3,151,130",Kevin Smith
+427,Zwartboek,2006,71        ,7.7,R,145 min,"Drama, Thriller, War            ",73179,"4,398,392",Paul Verhoeven
+428,Final Destination 3,2006,None,5.8,A,93 min,"Horror, Thriller            ",132127,"54,098,051",James Wong
+429,Corpse Bride,2005,83        ,7.3,U,77 min,"Animation, Drama, Family            ",248206,"53,359,111",Tim Burton
+430,The Texas Chainsaw Massacre,2003,None,6.2,R,98 min,"Crime, Horror            ",131357,"80,571,655",Marcus Nispel
+431,Halloween,1978,87        ,7.7,A,91 min,"Horror, Thriller            ",235597,"47,000,000",John Carpenter
+432,What Lies Beneath,2000,None,6.6,A,130 min,"Drama, Horror, Mystery            ",118964,"155,464,351",Robert Zemeckis
+433,Snakes on a Plane,2006,None,5.4,A,105 min,"Action, Adventure, Crime            ",133368,"34,020,814",David R. Ellis
+434,G-Force,2009,None,5.1,PG,88 min,"Animation, Action, Adventure            ",43278,"119,436,770",Hoyt Yeatman
+435,The Black Dahlia,2006,None,5.6,R,121 min,"Crime, Drama, Mystery            ",71719,"22,518,325",Brian De Palma
+436,The World Is Not Enough,1999,None,6.4,A,128 min,"Action, Adventure, Crime            ",189942,"126,943,684",Michael Apted
+437,Rat Race,2001,None,6.4,PG-13,112 min,"Action, Adventure, Comedy            ",109654,"56,618,055",Jerry Zucker
+438,Final Destination,2000,None,6.7,A,98 min,"Horror, Thriller            ",232180,"53,331,147",James Wong
+439,Brüno,2009,None,5.8,R,81 min,Comedy            ,144700,"60,054,530",Larry Charles
+440,Jurassic Park III,2001,None,5.9,UA,92 min,"Action, Adventure, Sci-Fi            ",298620,"181,171,875",Joe Johnston
+441,Disaster Movie,2008,None,1.9,PG-13,87 min,"Comedy, Sci-Fi            ",87660,"14,190,901",Jason Friedberg
+442,The Exorcism of Emily Rose,2005,None,6.7,A,119 min,"Drama, Horror, Thriller            ",120871,"75,072,454",Scott Derrickson
+443,The Skeleton Key,2005,None,6.5,PG-13,104 min,"Drama, Horror, Mystery            ",107188,"47,806,295",Iain Softley
+444,Lethal Weapon,1987,68        ,7.6,A,109 min,"Action, Crime, Thriller            ",239382,"65,207,127",Richard Donner
+445,"Dude, Where's My Car?",2000,None,5.5,A,83 min,"Comedy, Mystery, Sci-Fi            ",135359,"46,729,800",Danny Leiner
+446,Over the Hedge,2006,67        ,6.7,U,83 min,"Animation, Adventure, Comedy            ",161863,"155,019,340",Tim Johnson
+447,Cheaper by the Dozen,2003,None,5.9,U,98 min,"Comedy, Family            ",94942,"138,614,544",Shawn Levy
+448,13 Going on 30,2004,None,6.2,UA,98 min,"Comedy, Fantasy, Romance            ",170389,"57,231,747",Gary Winick
+449,Planet of the Apes,1968,79        ,8,U,112 min,"Adventure, Sci-Fi            ",166624,"33,395,426",Franklin J. Schaffner
+450,Jumanji,1995,None,7,UA,104 min,"Adventure, Comedy, Family            ",313342,"100,475,249",Joe Johnston
+451,Deep Impact,1998,None,6.2,UA,120 min,"Action, Drama, Sci-Fi            ",166429,"140,464,664",Mimi Leder
+452,Pocahontas,1995,None,6.7,U,81 min,"Animation, Adventure, Drama            ",172895,"141,600,000",Mike Gabriel
+453,Wild Hogs,2007,None,5.8,PG-13,100 min,"Action, Adventure, Comedy            ",114757,"168,273,550",Walt Becker
+454,Alice in Wonderland,1951,68        ,7.4,None,75 min,"Animation, Adventure, Family            ",130672,"1,073,014",Clyde Geronimi
+455,Four Rooms,1995,None,6.8,A,98 min,Comedy            ,99184,"4,301,331",Allison Anders
+456,The Ruins,2008,None,5.9,18,90 min,"Adventure, Fantasy, Horror            ",71089,"17,432,844",Carter Smith
+457,Happy Feet,2006,77        ,6.4,U,108 min,"Animation, Adventure, Comedy            ",171933,"198,000,317",George Miller
+458,Mission: Impossible II,2000,None,6.1,UA,123 min,"Action, Adventure, Thriller            ",317984,"215,409,889",John Woo
+459,Elf,2003,64        ,7,PG,97 min,"Adventure, Comedy, Family            ",233329,"173,398,518",Jon Favreau
+460,The Hills Have Eyes II,2007,None,5.1,R,89 min,"Horror, Thriller            ",61241,"20,804,166",Martin Weisz
+461,What Women Want,2000,None,6.4,UA,127 min,"Comedy, Fantasy, Romance            ",193531,"182,811,707",Nancy Meyers
+462,Oorlogswinter,2008,66        ,7,R,103 min,"Drama, History, War            ",12274,"542,860",Martin Koolhoven
+463,Dreamcatcher,2003,None,5.5,A,136 min,"Drama, Horror, Sci-Fi            ",89336,"33,715,436",Lawrence Kasdan
+464,Epic Movie,2007,None,2.4,U,86 min,"Adventure, Comedy, Fantasy            ",102278,"39,739,367",Jason Friedberg
+465,Gremlins,1984,70        ,7.3,UA,106 min,"Comedy, Fantasy, Horror            ",201948,"148,170,000",Joe Dante
+466,Miss Congeniality,2000,None,6.3,A,109 min,"Action, Comedy, Crime            ",190491,"106,807,667",Donald Petrie
+467,John Q,2002,None,7.1,UA,116 min,"Crime, Drama, Thriller            ",125524,"71,756,802",Nick Cassavetes
+468,Spy Kids,2001,71        ,5.5,U,88 min,"Action, Adventure, Comedy            ",109871,"112,719,001",Robert Rodriguez
+469,Saw II,2005,None,6.6,A,93 min,"Horror, Mystery            ",234943,"87,039,965",Darren Lynn Bousman
+470,Did You Hear About the Morgans?,2009,None,4.9,PG-13,103 min,"Comedy, Drama, Romance            ",38539,"29,580,087",Marc Lawrence
+471,DOA: Dead or Alive,2006,None,4.8,PG-13,87 min,"Action, Adventure, Mystery            ",43271,"480,314",Corey Yuen
+472,Catwoman,2004,None,3.4,PG-13,104 min,"Action, Crime, Fantasy            ",112209,"40,202,379",Pitof
+473,Scary Movie 3,2003,None,5.5,UA,84 min,Comedy            ,138706,"110,003,217",David Zucker
+474,Freaky Friday,2003,70        ,6.2,U,97 min,"Comedy, Family, Fantasy            ",126922,"110,230,332",Mark Waters
+475,Beverly Hills Cop,1984,66        ,7.3,A,105 min,"Action, Comedy, Crime            ",168010,"234,760,478",Martin Brest
+476,AVPR: Aliens vs Predator - Requiem,2007,None,4.7,A,94 min,"Action, Adventure, Fantasy            ",117303,"41,797,066",Colin Strause
+477,Tomorrow Never Dies,1997,None,6.5,A,119 min,"Action, Adventure, Thriller            ",183005,"125,332,007",Roger Spottiswoode
+478,AVP: Alien vs. Predator,2004,None,5.6,UA,101 min,"Action, Adventure, Horror            ",186599,"80,282,231",Paul W.S. Anderson
+479,What a Girl Wants,2003,None,5.8,U,105 min,"Comedy, Drama, Family            ",60153,"35,990,505",Dennie Gordon
+480,Evil Dead II,1987,72        ,7.8,A,84 min,"Comedy, Horror            ",149768,"5,923,044",Sam Raimi
+481,My Bloody Valentine,2009,None,5.4,A,101 min,"Horror, Mystery, Thriller            ",54191,"51,545,952",Patrick Lussier
+482,Passengers,2008,None,5.9,PG-13,93 min,"Romance, Thriller            ",34945,"270,659",Rodrigo García
+483,I Know What You Did Last Summer,1997,None,5.7,A,101 min,"Horror, Mystery            ",134992,"72,586,134",Jim Gillespie
+484,The Texas Chainsaw Massacre: The Beginning,2006,None,5.8,A,91 min,"Horror, Thriller            ",68292,"39,517,763",Jonathan Liebesman
+485,Paycheck,2003,None,6.3,UA,119 min,"Action, Mystery, Sci-Fi            ",104261,"53,790,451",John Woo
+486,Starsky & Hutch,2004,None,6.1,UA,101 min,"Comedy, Crime            ",139364,"88,237,754",Todd Phillips
+487,The Princess Diaries 2: Royal Engagement,2004,None,5.8,U,113 min,"Comedy, Family, Romance            ",75123,"95,170,481",Garry Marshall
+488,Mad Max 2,1981,77        ,7.6,A,96 min,"Action, Adventure, Sci-Fi            ",168225,"12,465,371",George Miller
+489,Tarzan,1999,79        ,7.3,U,88 min,"Animation, Adventure, Family            ",206743,"171,091,819",Chris Buck
+490,Miami Vice,2006,65        ,6,R,132 min,"Action, Crime, Drama            ",111233,"63,450,470",Michael Mann
+491,Shark Tale,2004,None,6,U,90 min,"Animation, Adventure, Comedy            ",168931,"160,861,908",Bibo Bergeron
+492,The Time Machine,2002,None,6,U,96 min,"Action, Adventure, Sci-Fi            ",119263,"56,684,819",Simon Wells
+493,The Grudge,2004,None,5.9,UA,91 min,"Horror, Mystery, Thriller            ",139523,"110,359,362",Takashi Shimizu
+494,Freddy vs. Jason,2003,None,5.7,A,97 min,"Action, Horror            ",111801,"82,622,655",Ronny Yu
+495,Behind Enemy Lines,2001,None,6.4,UA,106 min,"Action, Drama, Thriller            ",99335,"59,068,786",John Moore
+496,Saw V,2008,None,5.8,R,92 min,"Crime, Horror, Mystery            ",116360,"56,746,769",David Hackl
+497,Runaway Jury,2003,61        ,7.1,UA,127 min,"Crime, Drama, Thriller            ",92511,"49,443,628",Gary Fleder
+498,The Eye,2008,None,5.4,PG-13,98 min,"Drama, Horror, Mystery            ",51882,"31,418,697",David Moreau
+499,Romeo Must Die,2000,None,6.1,A,115 min,"Action, Crime, Thriller            ",67354,"55,973,336",Andrzej Bartkowiak
+500,Rules of Engagement,2000,None,6.4,R,128 min,"Drama, Thriller, War            ",44762,"61,335,230",William Friedkin
+501,Analyze That,2002,None,5.9,R,96 min,"Comedy, Crime            ",82787,"32,122,249",Harold Ramis
+502,Get Carter,2000,None,5.2,R,102 min,"Action, Crime, Drama            ",32850,"14,967,182",Stephen Kay
+503,Freddy Got Fingered,2001,None,4.7,A,87 min,Comedy            ,46486,"14,249,005",Tom Green
+504,Transformers,2007,61        ,7,UA,144 min,"Action, Adventure, Sci-Fi            ",600376,"319,246,193",Michael Bay
+505,Hostel: Part II,2007,None,5.5,A,94 min,Horror            ,86075,"17,609,452",Eli Roth
+506,Beerfest,2006,None,6.3,R,110 min,Comedy            ,64522,"19,185,184",Jay Chandrasekhar
+507,The Condemned,2007,None,6,R,114 min,"Action, Crime, Thriller            ",50466,"3,718",Scott Wiper
+508,Predator 2,1990,None,6.3,R,108 min,"Action, Horror, Sci-Fi            ",148563,"30,669,413",Stephen Hopkins
+509,How the Grinch Stole Christmas,2000,None,6.2,U,104 min,"Comedy, Family, Fantasy            ",217640,"260,044,825",Ron Howard
+510,The Wicker Man,2006,None,3.7,PG-13,102 min,"Horror, Mystery, Thriller            ",64752,"23,643,531",Neil LaBute
+511,Assault on Precinct 13,2005,None,6.3,R,109 min,"Action, Crime, Drama            ",73880,"19,976,073",Jean-François Richet
+512,Robots,2005,64        ,6.3,U,91 min,"Animation, Adventure, Comedy            ",134676,"128,200,012",Chris Wedge
+513,Mr. Deeds,2002,None,5.8,U,96 min,"Comedy, Romance            ",137513,"126,293,452",Steven Brill
+514,Superhero Movie,2008,None,4.5,PG-13,75 min,"Action, Comedy, Sci-Fi            ",64211,"26,638,520",Craig Mazin
+515,Lilo & Stitch,2002,73        ,7.2,U,85 min,"Animation, Adventure, Comedy            ",171276,"145,794,338",Dean DeBlois
+516,Saw IV,2007,None,5.9,R,93 min,"Crime, Horror, Mystery            ",141471,"63,300,095",Darren Lynn Bousman
+517,40 Days and 40 Nights,2002,None,5.6,A,96 min,"Comedy, Romance            ",71053,"37,950,822",Michael Lehmann
+518,Rambo: First Blood Part II,1985,None,6.5,None,96 min,"Action, Adventure, Thriller            ",156678,"150,415,432",George P. Cosmatos
+519,Enter the Dragon,1973,83        ,7.7,A,102 min,"Action, Crime, Drama            ",97866,"25,000,000",Robert Clouse
+520,The Addams Family,1991,None,6.9,UA,99 min,"Comedy, Fantasy            ",138591,"113,502,000",Barry Sonnenfeld
+521,The Spiderwick Chronicles,2008,62        ,6.5,U,96 min,"Action, Adventure, Drama            ",89452,"71,195,053",Mark Waters
+522,Elektra,2005,None,4.7,UA,97 min,"Action, Adventure, Crime            ",88021,"24,409,722",Rob Bowman
+523,8MM,1999,None,6.5,R,123 min,"Crime, Drama, Mystery            ",125347,"36,663,315",Joel Schumacher
+524,Æon Flux,2005,None,5.5,UA,93 min,"Action, Adventure, Sci-Fi            ",124629,"25,857,987",Karyn Kusama
+525,Joy Ride,2001,75        ,6.6,R,97 min,"Action, Mystery, Thriller            ",64802,"21,973,182",John Dahl
+526,Space Jam,1996,None,6.5,U,88 min,"Animation, Adventure, Comedy            ",166906,"90,463,534",Joe Pytka
+527,Goldfinger,1964,87        ,7.7,A,110 min,"Action, Adventure, Thriller            ",175988,"51,081,062",Guy Hamilton
+528,How High,2001,None,6.3,R,93 min,"Comedy, Fantasy            ",54195,"31,155,435",Jesse Dylan
+529,Home Alone 2: Lost in New York,1992,None,6.8,U,120 min,"Adventure, Comedy, Crime            ",314443,"173,585,516",Chris Columbus
+530,Flash Gordon,1980,None,6.5,U,111 min,"Action, Adventure, Sci-Fi            ",51791,None,Mike Hodges
+531,The Naked Gun: From the Files of Police Squad!,1988,76        ,7.6,U,85 min,"Comedy, Crime            ",155094,"78,756,177",David Zucker
+532,Conan the Destroyer,1984,None,5.9,UA,103 min,"Action, Adventure, Fantasy            ",76629,"31,042,035",Richard Fleischer
+533,Semi-Pro,2008,None,5.8,R,91 min,"Comedy, Sport            ",79063,"33,472,850",Kent Alterman
+534,Ghostbusters II,1989,None,6.6,U,108 min,"Action, Comedy, Fantasy            ",185140,"112,494,738",Ivan Reitman
+535,Deep Blue Sea,1999,None,5.9,A,105 min,"Action, Adventure, Sci-Fi            ",126218,"73,648,142",Renny Harlin
+536,Surf's Up,2007,64        ,6.7,PG,85 min,"Animation, Comedy, Family            ",70333,"58,867,694",Ash Brannon
+537,My Sassy Girl,2008,None,6.3,PG-13,92 min,"Comedy, Drama, Romance            ",19605,None,Yann Samuell
+538,In Her Shoes,2005,None,6.4,UA,130 min,"Comedy, Drama, Romance            ",59736,"32,880,591",Curtis Hanson
+539,The X Files: I Want to Believe,2008,None,5.9,A,104 min,"Crime, Drama, Horror            ",89055,"20,982,478",Chris Carter
+540,Evolution,2001,None,6.1,UA,101 min,"Comedy, Sci-Fi            ",120411,"38,345,494",Ivan Reitman
+541,Dr. No,1962,78        ,7.2,A,110 min,"Action, Adventure, Thriller            ",151983,"16,067,035",Terence Young
+542,"You, Me and Dupree",2006,None,5.6,PG-13,110 min,"Comedy, Romance            ",78877,"75,628,110",Anthony Russo
+543,The Wedding Planner,2001,None,5.3,U,103 min,"Comedy, Romance            ",77263,"60,400,856",Adam Shankman
+544,Nanny McPhee,2005,None,6.5,U,97 min,"Comedy, Family, Fantasy            ",69159,"47,144,110",Kirk Jones
+545,Thir13en Ghosts,2001,None,5.6,A,91 min,"Fantasy, Horror            ",80542,"41,867,960",Steve Beck
+546,Lara Croft Tomb Raider: The Cradle of Life,2003,None,5.6,UA,117 min,"Action, Adventure, Fantasy            ",131087,"65,660,196",Jan de Bont
+547,Gothika,2003,None,5.8,A,98 min,"Horror, Mystery, Thriller            ",107298,"59,694,580",Mathieu Kassovitz
+548,Mr. Bean's Holiday,2007,None,6.4,U,90 min,"Comedy, Family            ",117256,"33,302,167",Steve Bendelack
+549,Fun with Dick and Jane,2005,None,6.2,UA,90 min,"Comedy, Crime            ",136853,"110,332,737",Dean Parisot
+550,Psycho,1998,None,4.6,A,105 min,"Horror, Mystery, Thriller            ",46122,"21,456,130",Gus Van Sant
+551,The Polar Express,2004,61        ,6.6,U,100 min,"Animation, Adventure, Comedy            ",182489,"183,373,735",Robert Zemeckis
+552,Rambo III,1988,None,5.8,A,102 min,"Action, Adventure            ",123334,"53,715,611",Peter MacDonald
+553,Friday the 13th,1980,None,6.5,A,95 min,"Horror, Mystery, Thriller            ",121391,"39,754,601",Sean S. Cunningham
+554,The Rookie,2002,72        ,6.9,None,127 min,"Drama, Family, Sport            ",32728,"75,600,072",John Lee Hancock
+555,Universal Soldier,1992,None,6.1,A,102 min,"Action, Sci-Fi            ",83490,"36,299,898",Roland Emmerich
+556,The Family Man,2000,None,6.8,PG-13,125 min,"Comedy, Drama, Fantasy            ",104738,"75,793,305",Brett Ratner
+557,Bad Santa,2003,70        ,7,R,92 min,"Comedy, Crime, Drama            ",136317,"60,060,328",Terry Zwigoff
+558,Che: Part One,2008,None,7.2,None,134 min,"Biography, Drama, History            ",44548,"1,731,665",Steven Soderbergh
+559,Rampage,2009,None,6.2,R,85 min,"Action, Crime, Thriller            ",18260,None,Uwe Boll
+560,The Long Kiss Goodnight,1996,None,6.8,A,121 min,"Action, Crime, Drama            ",74477,"33,328,051",Renny Harlin
+561,The Hunchback of Notre Dame,1996,74        ,7,U,91 min,"Animation, Drama, Family            ",144112,"100,138,851",Gary Trousdale
+562,Hide and Seek,2005,None,6,R,101 min,"Drama, Horror, Mystery            ",82192,"51,100,486",John Polson
+563,101 Dalmatians,1996,None,5.7,None,103 min,"Adventure, Comedy, Crime            ",102603,"136,189,294",Stephen Herek
+564,Analyze This,1999,61        ,6.7,A,103 min,"Comedy, Crime            ",146893,"106,885,658",Harold Ramis
+565,Under Siege,1992,None,6.5,A,103 min,"Action, Thriller            ",77860,"83,363,139",Andrew Davis
+566,Wayne's World 2,1993,None,6.2,U,95 min,"Comedy, Music            ",77915,"48,197,805",Stephen Surjik
+567,Good Bye Lenin!,2003,68        ,7.7,R,121 min,"Comedy, Drama, Romance            ",139232,"4,064,200",Wolfgang Becker
+568,Bedazzled,2000,None,6,UA,93 min,"Comedy, Fantasy            ",97879,"37,879,996",Harold Ramis
+569,Final Fantasy: The Spirits Within,2001,None,6.4,U,106 min,"Animation, Action, Adventure            ",80244,"32,131,830",Hironobu Sakaguchi
+570,Live and Let Die,1973,None,6.8,U,121 min,"Action, Adventure, Thriller            ",98637,"35,377,836",Guy Hamilton
+571,A View to a Kill,1985,None,6.4,UA,131 min,"Action, Adventure, Thriller            ",90013,"50,327,960",John Glen
+572,Two for the Money,2005,None,6.3,R,122 min,"Crime, Drama, Sport            ",43734,"22,862,049",D.J. Caruso
+573,Flight of the Phoenix,2004,None,6.1,U,113 min,"Action, Adventure, Drama            ",52042,"21,009,180",John Moore
+574,Sister Act 2: Back in the Habit,1993,None,5.7,U,107 min,"Comedy, Family, Music            ",49946,"57,319,029",Bill Duke
+575,Johnny English,2003,None,6.2,U,89 min,"Action, Adventure, Comedy            ",150046,"28,082,366",Peter Howitt
+576,Post Grad,2009,None,5.3,PG-13,88 min,"Comedy, Romance            ",13762,"6,373,693",Vicky Jenson
+577,The Eye,2008,None,None,PG-13,98 min,"Drama, Horror, Mystery            ",51882,"31,418,697",David Moreau
+578,Kingpin,1996,None,6.9,UA,114 min,"Comedy, Sport            ",77809,"24,944,213",Bobby Farrelly
+579,Super Mario Bros.,1993,None,4.1,PG,104 min,"Adventure, Comedy, Family            ",49325,"20,915,465",Annabel Jankel
+580,The Whole Ten Yards,2004,None,5.5,PG-13,98 min,"Comedy, Crime, Thriller            ",54423,"16,323,969",Howard Deutch
+581,Peter Pan,1953,76        ,7.3,U,77 min,"Animation, Adventure, Family            ",128477,"87,404,651",Clyde Geronimi
+582,Windtalkers,2002,None,6.1,A,134 min,"Action, Drama, War            ",65952,"40,914,068",John Woo
+583,Fainaru fantajî sebun adobento chirudoren,2005,None,7.2,U,101 min,"Animation, Action, Adventure            ",55193,None,Tetsuya Nomura
+584,Stuart Little,1999,61        ,5.9,U,84 min,"Adventure, Comedy, Family            ",126980,"140,035,367",Rob Minkoff
+585,Jeepers Creepers,2001,None,6.2,A,90 min,"Horror, Mystery            ",112735,"37,904,175",Victor Salva
+586,Deuce Bigalow: Male Gigolo,1999,None,5.7,R,88 min,"Comedy, Romance            ",71453,"65,538,755",Mike Mitchell
+587,Knockaround Guys,2001,None,6.1,R,92 min,"Crime, Drama, Thriller            ",22911,"11,632,420",Brian Koppelman
+588,The Messengers,2007,None,5.4,PG-13,90 min,"Drama, Horror, Thriller            ",38498,"35,374,833",Danny Pang
+589,Cool Runnings,1993,None,7,PG,98 min,"Adventure, Comedy, Family            ",94547,"68,856,263",Jon Turteltaub
+590,Norbit,2007,None,4.1,PG-13,103 min,"Comedy, Romance            ",69660,"95,673,607",Brian Robbins
+591,Open Season 2,ideo,None,5.6,U,76 min,"Animation, Adventure, Comedy            ",22194,None,Matthew O'Callaghan
+592,Far Cry,2008,None,3.1,R,95 min,"Action, Adventure, Sci-Fi            ",13437,None,Uwe Boll
+593,Lethal Weapon 2,1989,70        ,7.2,A,114 min,"Action, Crime, Thriller            ",163779,"147,253,986",Richard Donner
+594,Moonraker,1979,66        ,6.3,A,126 min,"Action, Adventure, Sci-Fi            ",92550,"70,308,099",Lewis Gilbert
+595,Never Say Never Again,1983,68        ,6.2,UA,134 min,"Action, Adventure, Thriller            ",62765,"55,500,000",Irvin Kershner
+596,Goal!,2005,None,6.7,PG,118 min,"Adventure, Drama, Romance            ",60750,"4,280,577",Danny Cannon
+597,Ali G Indahouse,2002,None,6.3,R,85 min,Comedy            ,86806,None,Mark Mylod
+598,Dinosaur,2000,None,6.5,PG,82 min,"Animation, Adventure, Family            ",54455,"137,748,063",Eric Leighton
+599,Alone in the Dark,2005,None,2.4,A,99 min,"Action, Horror, Sci-Fi            ",41862,"5,178,569",Uwe Boll
+600,Pinocchio,1940,None,None,G,88 min,"Animation, Comedy, Family            ",133169,"84,254,167",Norman Ferguson
+601,Stan Helsing,2009,None,3.6,R,108 min,"Comedy, Fantasy, Horror            ",12776,None,Bo Zenga
+602,Big Momma's House,2000,None,5.2,A,99 min,"Action, Comedy, Crime            ",81543,"117,559,438",Raja Gosnell
+603,Conspiracy Theory,1997,None,6.7,A,135 min,"Action, Mystery, Thriller            ",94756,"75,982,834",Richard Donner
+604,Naked Gun 33 1/3: The Final Insult,1994,63        ,6.5,A,83 min,"Comedy, Crime            ",98459,"51,132,598",Peter Segal
+605,Octopussy,1983,63        ,6.6,UA,131 min,"Action, Adventure, Thriller            ",96741,"67,900,000",John Glen
+606,Torque,2004,None,4.1,PG-13,84 min,"Action, Comedy, Crime            ",27226,"21,215,059",Joseph Kahn
+607,Jaws: The Revenge,1987,None,3,U,89 min,"Adventure, Horror, Thriller            ",41631,"20,763,013",Joseph Sargent
+608,Home Alone 3,1997,None,4.5,U,102 min,"Action, Comedy, Crime            ",107817,"30,882,515",Raja Gosnell
+609,He Got Game,1998,64        ,6.9,R,136 min,"Drama, Sport            ",44965,"21,554,585",Spike Lee
+610,Shaft,2000,None,5.9,A,99 min,"Action, Crime, Thriller            ",74108,"70,334,258",John Singleton
+611,Babe,1995,83        ,6.8,U,91 min,"Comedy, Drama, Family            ",117822,"66,600,000",Chris Noonan
+612,The Gift,2000,62        ,6.6,R,112 min,"Drama, Fantasy, Horror            ",64339,"12,008,642",Sam Raimi
+613,Cheaper by the Dozen 2,2005,None,5.5,U,94 min,"Adventure, Comedy, Family            ",55413,"82,571,173",Adam Shankman
+614,The Texas Chain Saw Massacre,1974,78        ,7.5,A,83 min,Horror            ,139508,"30,859,000",Tobe Hooper
+615,Looney Tunes: Back in Action,2003,64        ,5.7,U,93 min,"Animation, Adventure, Comedy            ",33822,"20,991,364",Joe Dante
+616,The Reaping,2007,None,5.6,R,99 min,"Horror, Thriller            ",42070,"25,117,498",Stephen Hopkins
+617,The Ring Two,2005,None,5.4,A,110 min,"Horror, Mystery            ",91933,"76,231,249",Hideo Nakata
+618,Collateral Damage,2002,None,5.5,A,108 min,"Action, Drama, Thriller            ",72394,"40,077,257",Andrew Davis
+619,The Longest Day,1962,75        ,7.8,U,178 min,"Action, Drama, History            ",52553,"39,100,000",Ken Annakin
+620,The SpongeBob SquarePants Movie,2004,66        ,7.1,U,87 min,"Animation, Action, Adventure            ",80585,"85,417,988",Stephen Hillenburg
+621,Raise Your Voice,2004,None,5.9,U,107 min,"Family, Music, Musical            ",26968,"10,411,980",Sean McNamara
+622,The Naked Gun 2½: The Smell of Fear,1991,65        ,6.9,U,85 min,"Comedy, Crime            ",106540,"86,930,411",David Zucker
+623,White Men Can't Jump,1992,65        ,6.8,R,115 min,"Comedy, Drama, Sport            ",76447,"76,253,806",Ron Shelton
+624,Mindhunters,2004,None,6.4,R,106 min,"Crime, Horror, Thriller            ",58328,"4,480,744",Renny Harlin
+625,The Forgotten,2004,None,5.8,PG-13,91 min,"Drama, Mystery, Sci-Fi            ",64185,"66,641,205",Joseph Ruben
+626,Monster House,2006,68        ,6.6,UA,91 min,"Animation, Comedy, Family            ",103253,"73,661,010",Gil Kenan
+627,Biohazard Regeneration,2008,None,6.5,R,97 min,"Animation, Action, Horror            ",29023,None,Makoto Kamiya
+628,Police Academy 4: Citizens on Patrol,1987,None,5.1,U,88 min,"Comedy, Crime            ",40684,"28,061,343",Jim Drake
+629,Street Fighter,1994,None,4,U,102 min,"Action, Adventure, Comedy            ",66674,"33,423,521",Steven E. de Souza
+630,Bride & Prejudice,2004,None,6.2,U,122 min,"Comedy, Drama, Musical            ",20037,"6,601,079",Gurinder Chadha
+631,About Schmidt,2002,85        ,7.1,U,125 min,"Comedy, Drama            ",123290,"65,016,287",Alexander Payne
+632,Employee of the Month,2006,None,5.5,PG-13,103 min,"Comedy, Romance            ",45503,"28,435,406",Greg Coolidge
+633,Brother Bear,2003,None,6.8,U,85 min,"Animation, Adventure, Comedy            ",98908,"85,336,277",Aaron Blaise
+634,Dumbo,1941,96        ,7.2,G,64 min,"Animation, Adventure, Drama            ",121237,"1,600,000",Samuel Armstrong
+635,The Karate Kid Part II,1986,None,6.1,U,113 min,"Action, Family, Sport            ",81157,"115,103,979",John G. Avildsen
+636,Kiss of the Dragon,2001,None,6.6,U,98 min,"Action, Crime, Drama            ",61252,"36,845,124",Chris Nahon
+637,Crocodile Dundee,1986,62        ,6.6,U,97 min,"Action, Adventure, Comedy            ",93638,"174,635,000",Peter Faiman
+638,Escape from L.A.,1996,None,5.8,A,101 min,"Action, Adventure, Sci-Fi            ",70577,"25,477,365",John Carpenter
+639,Joan of Arc,1999,None,6.4,A,158 min,"Adventure, Biography, Drama            ",64381,"14,276,317",Luc Besson
+640,The Fox and the Hound,1981,65        ,7.3,U,83 min,"Animation, Adventure, Drama            ",85952,"63,456,988",Ted Berman
+641,Bandidas,2006,None,5.7,PG-13,93 min,"Action, Comedy, Crime            ",34347,None,Joachim Rønning
+642,Big Momma's House 2,2006,None,4.8,U,99 min,"Comedy, Crime            ",41033,"70,165,972",John Whitesell
+643,Lethal Weapon 3,1992,None,6.7,UA,118 min,"Action, Crime, Thriller            ",158700,"144,731,527",Richard Donner
+644,Escape from Alcatraz,1979,76        ,7.6,A,112 min,"Action, Biography, Crime            ",123552,"43,000,000",Don Siegel
+645,Deuce Bigalow: European Gigolo,2005,None,4.7,R,83 min,Comedy            ,48952,"22,264,487",Mike Bigelow
+646,Taxi,1998,None,7,U,86 min,"Action, Comedy, Crime            ",77594,"268,254",Gérard Pirès
+647,Black Sheep,2006,62        ,5.8,15+,87 min,"Comedy, Horror, Sci-Fi            ",39307,"82,987",Jonathan King
+648,Imagine That,2009,None,5.6,PG,107 min,"Comedy, Drama, Family            ",14020,"16,088,610",Karey Kirkpatrick
+649,Over Her Dead Body,2008,None,5.2,PG-13,95 min,"Comedy, Fantasy, Romance            ",23911,"7,563,670",Jeff Lowell
+650,Mad Max Beyond Thunderdome,1985,71        ,6.3,U,107 min,"Action, Adventure, Sci-Fi            ",128179,"36,200,000",George Miller
+651,Coneheads,1993,None,5.4,U,88 min,"Comedy, Sci-Fi            ",51719,"21,274,717",Steve Barron
+652,Lady and the Tramp,1955,78        ,7.3,G,76 min,"Animation, Adventure, Comedy            ",124744,"93,600,000",Clyde Geronimi
+653,The Butterfly Effect 3: Revelations,2009,None,5.6,R,90 min,"Crime, Sci-Fi, Thriller            ",18865,None,Seth Grossman
+654,Charlotte's Web,2006,68        ,6.3,U,97 min,"Adventure, Comedy, Family            ",37891,"82,985,708",Gary Winick
+655,The Butterfly Effect 2,2006,None,4.5,UA,92 min,"Drama, Sci-Fi, Thriller            ",34630,None,John R. Leonetti
+656,Jaws 2,1978,None,5.8,A,116 min,"Adventure, Horror, Thriller            ",71384,"102,922,376",Jeannot Szwarc
+657,Glory Road,2006,None,7.2,U,118 min,"Biography, Drama, Sport            ",43635,"42,643,187",James Gartner
+658,Scooby-Doo 2: Monsters Unleashed,2004,None,5.1,U,93 min,"Adventure, Comedy, Family            ",51104,"84,216,833",Raja Gosnell
+659,RoboCop 2,1990,None,5.8,UA,117 min,"Action, Crime, Sci-Fi            ",81969,"45,681,173",Irvin Kershner
+660,Mean Machine,2001,None,6.5,R,99 min,"Comedy, Crime, Drama            ",36143,"92,770",Barry Skolnick
+661,Don't Say a Word,2001,None,6.3,U,113 min,"Drama, Mystery, Thriller            ",49458,"55,001,642",Gary Fleder
+662,Garfield,2004,None,5,U,80 min,"Animation, Comedy, Family            ",80500,"75,369,589",Peter Hewitt
+663,Small Soldiers,1998,None,6.2,UA,108 min,"Action, Adventure, Comedy            ",92385,"54,682,547",Joe Dante
+664,Taxi,2004,None,4.5,U,97 min,"Action, Comedy, Crime            ",40505,"36,611,066",Tim Story
+665,Femme Fatale,2002,None,6.2,R,114 min,"Crime, Drama, Mystery            ",34129,"6,592,103",Brian De Palma
+666,Daddy Day Care,2003,None,5.6,U,92 min,"Comedy, Family            ",64523,"104,297,061",Steve Carr
+667,Blue Streak,1999,None,6.4,UA,93 min,"Action, Comedy, Crime            ",76218,"68,518,533",Les Mayfield
+668,The Cat in the Hat,2003,None,4,U,82 min,"Adventure, Comedy, Family            ",58083,"101,149,285",Bo Welch
+669,Cats & Dogs,2001,None,5.1,PG,87 min,"Action, Comedy, Family            ",57015,"93,385,515",Lawrence Guterman
+670,Baise-moi,2000,None,4.5,None,77 min,"Crime, Drama, Thriller            ",16885,"5,793",Virginie Despentes
+671,Beverly Hills Cop II,1987,None,6.5,A,100 min,"Action, Comedy, Crime            ",109648,"153,665,000",Tony Scott
+672,Dragonfly,2002,None,6.1,UA,104 min,"Drama, Fantasy, Mystery            ",36943,"30,063,805",Tom Shadyac
+673,Captivity,2007,None,4.7,R,96 min,"Crime, Horror, Mystery            ",22585,"2,626,800",Roland Joffé
+674,Bride of Chucky,1998,None,5.4,A,89 min,"Comedy, Horror            ",52966,"32,383,850",Ronny Yu
+675,Cube 2: Hypercube,2002,None,5.6,R,94 min,"Drama, Mystery, Sci-Fi            ",63140,None,Andrzej Sekula
+676,Ginger Snaps,2000,70        ,6.8,A,108 min,"Drama, Fantasy, Horror            ",42598,"2,554",John Fawcett
+677,Strange Wilderness,2008,None,5.3,R,87 min,"Adventure, Comedy            ",21084,"6,563,357",Fred Wolf
+678,The Hunted,2003,None,6.1,R,94 min,"Action, Crime, Drama            ",44404,"34,238,611",William Friedkin
+679,Ladder 49,2004,None,6.5,UA,115 min,"Action, Drama, Thriller            ",54984,"74,541,707",Jay Russell
+680,Bulletproof Monk,2003,None,5.5,UA,104 min,"Action, Comedy, Fantasy            ",47839,"23,020,488",Paul Hunter
+681,Bean,1997,None,6.5,U,89 min,"Adventure, Comedy, Family            ",98843,"45,319,423",Mel Smith
+682,Jason X,2001,None,4.4,A,92 min,"Action, Horror, Sci-Fi            ",51450,"13,121,555",James Isaac
+683,Cocoon,1985,65        ,6.7,None,117 min,"Comedy, Drama, Sci-Fi            ",57989,"76,113,124",Ron Howard
+684,National Security,2003,None,5.7,PG-13,88 min,"Action, Comedy, Crime            ",48399,"35,764,982",Dennis Dugan
+685,The Grudge 2,2006,None,5.1,UA,102 min,"Horror, Thriller            ",47521,"39,143,839",Takashi Shimizu
+686,I Spy,2002,None,5.4,A,97 min,"Action, Adventure, Comedy            ",49630,"33,561,137",Betty Thomas
+687,Bubble Boy,2001,None,5.6,PG-13,84 min,"Adventure, Comedy, Romance            ",30433,"5,002,310",Blair Hayes
+688,Changing Lanes,2002,69        ,6.5,R,98 min,"Drama, Thriller            ",67517,"66,818,548",Roger Michell
+689,Stuck on You,2003,62        ,5.7,PG-13,118 min,Comedy            ,51372,"33,832,741",Bobby Farrelly
+690,Spirit: Stallion of the Cimarron,2002,None,7.2,U,83 min,"Animation, Adventure, Drama            ",66908,"73,280,117",Kelly Asbury
+691,Fucking Åmål,1998,73        ,7.5,None,89 min,"Comedy, Drama, Romance            ",50198,"168,761",Lukas Moodysson
+692,Beverly Hills Ninja,1997,None,5.6,UA,88 min,"Action, Comedy            ",39149,"31,235,710",Dennis Dugan
+693,D-War,2007,None,3.5,PG-13,107 min,"Action, Drama, Fantasy            ",23784,"10,977,721",Hyung-rae Shim
+694,George of the Jungle,1997,None,5.5,PG,92 min,"Action, Adventure, Comedy            ",72527,"105,263,257",Sam Weisman
+695,White Noise,2005,None,5.5,PG-13,101 min,"Drama, Horror, Mystery            ",47438,"56,386,759",Geoffrey Sax
+696,Beethoven,1992,None,5.7,U,87 min,"Comedy, Drama, Family            ",66885,"57,114,049",Brian Levant
+697,Herbie Fully Loaded,2005,None,4.8,U,101 min,"Adventure, Comedy, Family            ",45509,"66,023,816",Angela Robinson
+698,A Nightmare on Elm Street 3: Dream Warriors,1987,None,6.6,UA,96 min,"Fantasy, Horror            ",71866,"44,793,222",Chuck Russell
+699,Seed of Chucky,2004,None,4.8,A,87 min,"Comedy, Fantasy, Horror            ",39421,"17,083,732",Don Mancini
+700,Bratz,2007,None,None,U,110 min,"Comedy, Family, Music            ",17965,"10,005,534",Sean McNamara
+701,Biker Boyz,2003,None,4.7,PG-13,110 min,"Action, Drama            ",12850,"21,701,045",Reggie Rock Bythewood
+702,Exorcist: The Beginning,2004,None,5.2,A,114 min,"Horror, Mystery, Thriller            ",33705,"41,821,986",Renny Harlin
+703,Dennis the Menace,1993,None,5.6,U,94 min,"Comedy, Family            ",57412,"51,270,765",Nick Castle
+704,Boat Trip,2002,None,4.9,R,94 min,Comedy            ,30456,"8,586,376",Mort Nathan
+705,Ri¢hie Ri¢h,1994,None,5.4,U,95 min,"Comedy, Family            ",65071,"38,087,756",Donald Petrie
+706,Jesus Christ Superstar,1973,64        ,7.4,None,106 min,"Drama, History, Musical            ",25603,"24,477,615",Norman Jewison
+707,Eight Legged Freaks,2002,None,5.4,UA,99 min,"Action, Adventure, Comedy            ",53030,"17,322,606",Ellory Elkayem
+708,The Nutty Professor,1996,62        ,5.6,A,95 min,"Comedy, Romance, Sci-Fi            ",111458,"128,814,019",Tom Shadyac
+709,Swimfan,2002,None,5.1,A,85 min,"Drama, Thriller            ",19226,"28,563,926",John Polson
+710,A Goofy Movie,1995,None,6.9,U,78 min,"Animation, Adventure, Comedy            ",47131,"35,348,597",Kevin Lima
+711,Goal II: Living the Dream,2007,None,5.9,PG-13,115 min,"Adventure, Drama, Sport            ",31631,None,Jaume Collet-Serra
+712,Like Mike,2002,None,5.3,U,99 min,"Comedy, Family, Fantasy            ",19330,"51,432,423",John Schultz
+713,"Legally Blonde 2: Red, White & Blonde",2003,None,4.8,U,95 min,Comedy            ,62146,"90,186,328",Charles Herman-Wurmfeld
+714,The Karate Kid Part III,1989,None,5.3,U,112 min,"Action, Drama, Family            ",55354,"38,956,288",John G. Avildsen
+715,Beverly Hills Cop III,1994,None,5.6,A,104 min,"Action, Comedy, Crime            ",77318,"42,610,000",John Landis
+716,Doctor Dolittle,1998,None,5.4,PG-13,85 min,"Comedy, Family, Fantasy            ",92175,"144,156,605",Betty Thomas
+717,Jingle All the Way,1996,None,5.7,U,89 min,"Adventure, Comedy, Family            ",94604,"60,573,641",Brian Levant
+718,Jeepers Creepers 2,2003,None,5.6,U,106 min,Horror            ,59022,"35,667,218",Victor Salva
+719,Bowfinger,1999,71        ,6.4,A,97 min,Comedy            ,67255,"66,384,775",Frank Oz
+720,Spy Kids 2: Island of Lost Dreams,2002,66        ,5.2,U,100 min,"Action, Adventure, Comedy            ",61637,"85,846,429",Robert Rodriguez
+721,The Tuxedo,2002,None,5.4,U,98 min,"Action, Comedy, Sci-Fi            ",80009,"50,547,998",Kevin Donovan
+722,Astérix & Obélix: Mission Cléopâtre,2002,None,6.7,PG,107 min,"Adventure, Comedy, Family            ",49750,"3,115,188",Alain Chabat
+723,Open Water,2003,63        ,5.7,U,79 min,"Adventure, Drama, Horror            ",51402,"30,610,863",Chris Kentis
+724,The Great Mouse Detective,1986,73        ,7.2,U,74 min,"Animation, Adventure, Family            ",45795,"38,600,000",Ron Clements
+725,RoboCop 3,1993,None,4.1,UA,104 min,"Action, Crime, Sci-Fi            ",46376,"10,696,210",Fred Dekker
+726,Ravenous,1999,None,7,A,101 min,"Adventure, Comedy, Horror            ",37137,"2,060,953",Antonia Bird
+727,The Animatrix,ideo,None,7.4,None,100 min,"Animation, Action, Adventure            ",71782,None,Peter Chung
+728,Mr. Woodcock,2007,None,5.2,PG-13,87 min,"Comedy, Romance, Sport            ",35135,"25,628,629",Craig Gillespie
+729,The Grudge 3,2009,None,4.7,R,90 min,"Horror, Mystery, Thriller            ",17606,None,Toby Wilkins
+730,Speed 2: Cruise Control,1997,None,3.9,UA,121 min,"Action, Adventure, Crime            ",75678,"48,608,066",Jan de Bont
+731,Gremlins 2: The New Batch,1990,69        ,6.4,UA,106 min,"Comedy, Fantasy, Horror            ",94260,"41,482,207",Joe Dante
+732,A Nightmare on Elm Street Part 2: Freddy's Revenge,1985,None,5.5,A,87 min,Horror            ,62491,"29,999,213",Jack Sholder
+733,Dance of the Dead,2008,None,5.8,R,87 min,"Action, Comedy, Horror            ",11260,None,Gregg Bishop
+734,The Deaths of Ian Stone,2007,None,5.6,R,87 min,"Horror, Thriller            ",12607,None,Dario Piana
+735,Volcano,1997,None,5.5,UA,104 min,"Action, Drama, Sci-Fi            ",72682,"49,323,468",Mick Jackson
+736,Police Academy 2: Their First Assignment,1985,None,5.8,U,87 min,Comedy            ,52106,"55,600,000",Jerry Paris
+737,Wes Craven's New Nightmare,1994,64        ,6.5,UA,112 min,"Fantasy, Horror, Mystery            ",52043,"18,090,181",Wes Craven
+738,The Santa Clause,1994,None,6.5,U,97 min,"Comedy, Drama, Family            ",101439,"144,833,357",John Pasquin
+739,Black Knight,2001,None,4.9,PG-13,95 min,"Adventure, Comedy, Fantasy            ",38504,"33,422,806",Gil Junger
+740,Forrest Gump,1994,82        ,8.8,UA,142 min,"Drama, Romance            ",1840376,"330,252,182",Robert Zemeckis
+741,Titanic,1997,75        ,7.8,UA,194 min,"Drama, Romance            ",1060889,"659,325,379",James Cameron
+742,Memento,2000,80        ,8.4,UA,113 min,"Mystery, Thriller            ",1139880,"25,544,867",Christopher Nolan
+743,American History X,1998,62        ,8.5,R,119 min,Drama            ,1045880,"6,719,864",Tony Kaye
+744,V for Vendetta,2005,62        ,8.2,UA,132 min,"Action, Drama, Sci-Fi            ",1044364,"70,511,035",James McTeigue
+745,Goodfellas,1990,90        ,8.7,A,146 min,"Biography, Crime, Drama            ",1037331,"46,836,394",Martin Scorsese
+746,Iron Man,2008,79        ,7.9,UA,126 min,"Action, Adventure, Sci-Fi            ",954067,"318,412,101",Jon Favreau
+747,Casino Royale,2006,80        ,8,PG-13,144 min,"Action, Adventure, Thriller            ",587425,"167,445,960",Martin Campbell
+748,Spider-Man,2002,73        ,7.3,U,121 min,"Action, Adventure, Sci-Fi            ",695935,"403,706,375",Sam Raimi
+749,Pirates of the Caribbean: Dead Man's Chest,2006,None,7.3,12+,151 min,"Action, Adventure, Fantasy            ",661517,"423,315,812",Gore Verbinski
+750,Independence Day,1996,None,7,UA,145 min,"Action, Adventure, Sci-Fi            ",532525,"306,169,255",Roland Emmerich
+751,Ocean's Eleven,2001,74        ,7.7,UA,116 min,"Crime, Thriller            ",523086,"183,417,150",Steven Soderbergh
+752,Pirates of the Caribbean: At World's End,2007,None,7.1,UA,169 min,"Action, Adventure, Fantasy            ",601376,"309,420,425",Gore Verbinski
+753,Armageddon,1998,None,6.7,UA,151 min,"Action, Adventure, Sci-Fi            ",399151,"201,573,391",Michael Bay
+754,Harry Potter and the Prisoner of Azkaban,2004,82        ,7.9,U,142 min,"Adventure, Family, Fantasy            ",561266,"249,358,727",Alfonso Cuarón
+755,Harry Potter and the Order of the Phoenix,2007,71        ,7.5,UA,138 min,"Action, Adventure, Family            ",519219,"292,004,738",David Yates
+756,E.T. the Extra-Terrestrial,1982,91        ,7.8,U,115 min,"Family, Sci-Fi            ",376830,"435,110,554",Steven Spielberg
+757,Mr. & Mrs. Smith,2005,None,6.5,16,120 min,"Action, Comedy, Crime            ",454933,"186,336,279",Doug Liman
+758,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",2005,75        ,6.9,U,143 min,"Adventure, Family, Fantasy            ",370614,"291,709,845",Andrew Adamson
+759,Black Hawk Down,2001,74        ,7.7,A,144 min,"Drama, History, War            ",367804,"108,638,745",Ridley Scott
+760,Life of Brian,1979,77        ,8.1,None,94 min,Comedy            ,371816,"20,045,115",Terry Jones
+761,The Mummy,1999,None,7,A,124 min,"Action, Adventure, Fantasy            ",394950,"155,247,825",Stephen Sommers
+762,Quantum of Solace,2008,None,6.6,UA,106 min,"Action, Adventure, Thriller            ",408717,"168,368,427",Marc Forster
+763,Meet the Parents,2000,73        ,7,UA,108 min,"Comedy, Romance            ",313732,"166,244,045",Jay Roach
+764,The Aviator,2004,77        ,7.5,UA,170 min,"Biography, Drama            ",338301,"102,608,827",Martin Scorsese
+765,2012,2009,None,5.8,UA,158 min,"Action, Adventure, Sci-Fi            ",357030,"166,112,167",Roland Emmerich
+766,The Passion of the Christ,2004,None,7.2,A,127 min,Drama            ,218958,"370,782,930",Mel Gibson
+767,Ghost Busters,1984,71        ,7.8,UA,105 min,"Action, Comedy, Fantasy            ",359788,"238,632,124",Ivan Reitman
+768,Home Alone,1990,63        ,7.6,U,103 min,"Comedy, Family            ",494433,"285,761,243",Chris Columbus
+769,Kingdom of Heaven,2005,63        ,7.2,A,144 min,"Action, Adventure, Drama            ",269680,"47,398,413",Ridley Scott
+770,Speed,1994,78        ,7.2,A,116 min,"Action, Adventure, Thriller            ",333581,"121,248,145",Jan de Bont
+771,The Thing,1982,None,8.1,A,109 min,"Horror, Mystery, Sci-Fi            ",376561,"13,782,838",John Carpenter
+772,Pineapple Express,2008,64        ,6.9,A,111 min,"Action, Comedy, Crime            ",319052,"87,341,380",David Gordon Green
+773,Constantine,2005,None,7,A,121 min,"Action, Fantasy, Horror            ",311796,"75,976,178",Francis Lawrence
+774,Back to the Future Part III,1990,None,7.4,U,118 min,"Adventure, Comedy, Sci-Fi            ",410575,"87,727,583",Robert Zemeckis
+775,Chicago,2002,81        ,7.2,A,113 min,"Comedy, Crime, Musical            ",217919,"170,687,518",Rob Marshall
+776,Death Proof,2007,None,7,A,127 min,"Action, Adventure, Thriller            ",271699,None,Quentin Tarantino
+777,Ice Age,2002,None,7.5,U,81 min,"Animation, Adventure, Comedy            ",446992,"176,387,405",Chris Wedge
+778,"South Park: Bigger, Longer & Uncut",1999,73        ,7.7,A,81 min,"Animation, Comedy, Fantasy            ",193315,"52,037,603",Trey Parker
+779,Street Fighter: The Legend of Chun-Li,2009,None,3.7,PG-13,96 min,"Action, Crime, Fantasy            ",23097,"8,742,261",Andrzej Bartkowiak
+780,Martyrs,2008,None,7.1,A,99 min,Horror            ,84761,None,Pascal Laugier
+781,G.I. Joe: The Rise of Cobra,2009,None,5.8,UA,118 min,"Action, Adventure, Sci-Fi            ",200246,"152,267,519",Stephen Sommers
+782,Terminator Salvation,2009,None,6.5,UA,115 min,"Action, Sci-Fi            ",345730,"125,322,469",McG
+783,Spider-Man 3,2007,None,6.2,UA,139 min,"Action, Adventure, Sci-Fi            ",505683,"336,530,303",Sam Raimi
+784,Loft,2010,None,6.8,None,108 min,"Crime, Drama, Thriller            ",5565,None,Antoinette Beumer
+785,The Descent,2005,71        ,7.2,A,99 min,"Adventure, Horror, Thriller            ",203927,"26,024,456",Neil Marshall
+786,The Descent: Part 2,2009,None,5.8,A,94 min,"Adventure, Horror, Thriller            ",44463,None,Jon Harris
